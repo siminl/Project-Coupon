@@ -1,8 +1,8 @@
 dataprep <- function(deal_data,pre_window){
   
-  holidays_idx_table <- data.frame(holiday_idx = seq(1,4,1),
-                                   h_first_day = c(1,22,45,93),
-                                   h_last_day = c(3,28,45,95))
+  holidays_idx_table <- data.frame(holiday_idx = seq(1,3,1),
+                                   h_first_day = c(22,45,93),
+                                   h_last_day = c(28,45,95))
   
   numcat <- dim(deal_data%>%distinct(category))[1]
   category_idx <- as.numeric(factor(deal_data$category,labels = seq(1,numcat)))
@@ -35,6 +35,12 @@ dataprep <- function(deal_data,pre_window){
       # end_date = parse_date_time(end_date, "Ymd HMS"),
       launch_wkdy = wday(launch_date, label=TRUE, abbr=TRUE),
       end_wkdy = wday(end_date, label=TRUE, abbr=TRUE))
+  
+  # find the number of weekend dates during the active days of the deal
+  deal_data <- deal_data%>%
+    mutate(weekends = ((offering_duration-(7-(as.numeric(launch_wkdy)-1)-1))%/%7)*2 + 
+             ifelse(((offering_duration-(7-(as.numeric(launch_wkdy)-1)-1))%%7)>0,1,0))%>%
+    mutate(weekends = ifelse(weekends<0,0,weekends))
   
   # extract original prices
 
@@ -82,7 +88,7 @@ dataprep <- function(deal_data,pre_window){
     mutate(discount=replace(discount,is.nan(discount)==1,0))
   
   # non was thrown, and correct some of errorneously documented offering duration
-  deal_data <- deal_data%>%na.omit()%>%mutate(offering_duration = end_dow_dm-launch_dow_dm+1) 
+  deal_data <- deal_data%>%mutate(offering_duration = end_dow_dm-launch_dow_dm+1) 
   
   
   # remove price == 0, these are the deals that prices are not correctly extracted 
@@ -93,6 +99,11 @@ dataprep <- function(deal_data,pre_window){
   #deal_data[deal_data$discount>1,"discount"] <- deal_data[deal_data$discount>1,"price"]/(deal_data[deal_data$discount>1,"original_price"]*2)
   paste("No. deals whose discounts>=1:", dim(deal_data%>%filter(discount>=1))[1])
   deal_data <- deal_data%>%filter(discount<1)
+
+  deal_data[deal_data$holiday==5,"holiday"] <- 2
+  deal_data[deal_data$holiday==6,"holiday"] <- 1
+  deal_data[deal_data$holiday==7,"holiday"] <- 3
+  deal_data[deal_data$holiday==9,"holiday"] <- 2
   
   return(deal_data)
 }

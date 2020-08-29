@@ -9,7 +9,7 @@ LabeltoEng <- function(deal_data){
                    "沸腾渔乡","蚝","蟹","铁板烧","排骨","酒家","外婆家","包子","汤包","同庆楼","圆桌武士","微风新天地","桂花鸭","红楼人家","美满蕉园","过桥米线","荞面","炭烤","毛血旺")
   toMatch.salon <- c("SPA","美发","发廊","造型","烫染","脱毛","美容","美胸","美体","美甲","纤体美颜","私汤","按摩","护理","足道","足浴","洗剪吹","纤体","Massage")
   toMatch.ls <- c("数码影印","摄影","影像","写真","定制西服","西服定制","洗车","眼镜","灸" ,"健康","体检","教育","钢琴","早教","礼服")
-  toMatch.shop <- c("配送","包邮","邮")
+  toMatch.shop <- c("配送","包邮","邮","有龙凤爪","欧睿宇邦橱柜","兰缪官网")
   
   # add in categories for danping ---- 
   vouchers_dp <- deal_data%>%filter(platform%in%c("大众点评团"))
@@ -74,5 +74,14 @@ LabeltoEng <- function(deal_data){
   
   
   deal_data_cat <- rbind(vouchers_mt,vouchers_dp,vouchers_ww)
+  
+  platform_df <- data.frame(platform=c("美团","大众点评团","窝窝团"),
+                            platform_en = c("mt","dp","ww"))
+  
+  city_df <- data.frame(city = c("北京", "成都", "深圳", "杭州", "重庆", "济南", "西安", "广州", "太原", "郑州", "天津","青岛", "厦门", "上海", "南京"),
+                        city_en = c("BJ","CD","SZ","HZ","CQ","JN","XA","GZ","TY","ZZ","TJ","QD","XM","SH","NJ"))
+  
+  deal_data_cat <- merge(deal_data_cat,platform_df,by="platform",all.x=TRUE)%>%select(-platform)%>%rename(platform=platform_en)%>%
+    merge(city_df,by="city",all.x=TRUE)%>%select(-city)%>%rename(city=city_en)
   return(deal_data_cat)
 }
