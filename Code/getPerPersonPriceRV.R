@@ -74,6 +74,7 @@ getPerPersonPrice <- function(deal_data,catname){
   deal_data <- merge(deal_data%>%filter(event_id%in%catgp$event_id),
                      catgp%>%select(event_id,partysize),by="event_id",all.x = TRUE)%>%
     rbind(deal_data%>%filter(!event_id%in%catgp$event_id)%>%mutate(partysize =1))%>%
-    mutate(partysize = ifelse(is.na(partysize)==1,1,partysize))
+    mutate(partysize = ifelse(is.na(partysize)==1,1,partysize))%>%
+    mutate(discprice = (1-discount)*original_price/partysize)
   return(deal_data)
 }

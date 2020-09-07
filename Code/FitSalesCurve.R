@@ -24,15 +24,16 @@ ggplot(data = tmp%>%filter(convexity==TRUE,value<2000), aes(x=variable, y = valu
 # start with the non-holiday deals 
 
 plotdata <- vector()
+sales_estimates <- vector()
 for(i in 1:length(unique(dealsfull$type))){
   
   nonhol_data <- dealsfull%>%filter(is.na(holiday)==1,type==i)%>%{.->>tmp}%>%
     filter(total_volume>quantile(tmp$total_volume,c(0.05)), total_volume<quantile(tmp$total_volume,c(0.95)))
   
-  idx <- sample(dim(nonhol_data)[1],floor(dim(nonhol_data)[1]*0.8))
+  idx <- sample(dim(nonhol_data)[1],floor(dim(nonhol_data)[1]*0.9))
   trainset <- nonhol_data[idx,]
   testset <- nonhol_data[-idx,]
-  lm_nonhol <- lm(data=trainset%>%mutate(discprice = (1-discount)*original_price/partysize, 
+  lm_nonhol <- lm(data=trainset%>%mutate(discprice = (1-discount)*original_price/partysize, # = price/partysize
                                             logvol = log(total_volume),
                                             perperson = original_price/partysize,
                                             competitors_ct = (competitors/sd(competitors)),
@@ -46,6 +47,8 @@ for(i in 1:length(unique(dealsfull$type))){
                     I(log(original_price))+I(1/log(original_price))+I(1/(log(original_price)^2))+
                     logcomp+weekends+platform:weekends+
                     platform+city)
+  
+  sales_estimates <- rbind(sales_estimates,coef(summary(lm_nonhol))[,1])
   
   adjust_rsq <- 1-((sum(lm_nonhol$residuals**2))/
                      sum((log(trainset$total_volume)-mean(log(trainset$total_volume)))**2))
@@ -65,6 +68,8 @@ for(i in 1:length(unique(dealsfull$type))){
   testerr <- sqrt(sum((exp(testy)-(testset$total_volume))^2))
   plotdata <- rbind(plotdata, data.frame(fitted=(testy),y=log(testset$total_volume),value=i,x=seq(1,length(testy))))
   print(paste(i," ",adjust_rsq, " ",testerr))
+  
+  
   
 }
 

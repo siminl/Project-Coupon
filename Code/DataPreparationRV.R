@@ -3,6 +3,8 @@ library(dplyr)
 library(ggplot2)
 library(lubridate)
 library(reshape2)
+library(numDeriv)
+library(tictoc)
 
 
 load("/Users/siminli/Documents/GitHub/Project-Coupon/Data/deals.rda")
@@ -63,8 +65,12 @@ dealsfull <- getPreparationTime(dealsfull,holidays.doy,prewindow)%>%
   mutate(type = as.numeric(as.factor(detailed_cat_price)))
 
 # fit the sales curve ---
+source("FitSalesCurve.R")
 
-
+source("MLEProcedure.R")
+# estimate industry by industry 
+# isholiday = 0 nonholiday, otherwise holiday 
+MLE_estimation(deal_data,isholiday)
 
 
 
