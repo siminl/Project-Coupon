@@ -1,0 +1,6 @@
+Exception of type: OPTION_INVALID in file "/Users/siminli/Ipopt/Ipopt/src/Algorithm/IpAlgBuilder.cpp" at line 268:
+ Exception message: Selected linear solver MA27 not available.
+Tried to obtain MA27 from shared library "libhsl.dylib", but the following error occured:
+dlopen(libhsl.dylib, 2): image not found
+
+EXIT: Invalid option encountered.

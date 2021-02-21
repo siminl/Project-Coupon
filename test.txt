@@ -1,0 +1,1314 @@
+> source("mle_h_uniq_paratupples.R")
+[1] 2
+[1] 81 21
+[1] "skip"
+[1] -Inf
+[1] "skip"
+[1] 2184.991
+                                    discprice       log(prep.period) 
+           -1.23008942             0.03558615            -0.79723017 
+log(offering_duration) log(offering_duration)                        
+            0.17419447             0.97403908             8.27627174 
+                       
+           10.23854169 
+                                    discprice       log(prep.period) 
+           -0.70659716            -0.38471790            -0.02310122 
+log(offering_duration) log(offering_duration)                        
+            0.41563959             1.92767904             6.91060093 
+                       
+           10.29997016 
+57.702 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -12.6144049             -0.1515707             -0.7924819 
+log(offering_duration) log(offering_duration)                        
+            -0.1391131              4.7435562              6.0922718 
+                       
+            14.7520555 
+                                    discprice       log(prep.period) 
+           -100.721373               4.394350               8.913654 
+log(offering_duration) log(offering_duration)                        
+             -8.086772              20.563612              75.720853 
+                       
+             30.135978 
+                                    discprice       log(prep.period) 
+            -542.23033                5.97061               42.60071 
+log(offering_duration) log(offering_duration)                        
+             -50.30366              216.26499              403.46570 
+                       
+              55.92867 
+                                    discprice       log(prep.period) 
+           -956.893921               6.530556              76.406607 
+log(offering_duration) log(offering_duration)                        
+            -85.672652             423.851318             698.634565 
+                       
+             64.389130 
+137.893 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -7.18287960             0.06354206            -0.49476845 
+log(offering_duration) log(offering_duration)                        
+           -0.08414508             0.98338211            -0.24563935 
+                       
+            5.96567896 
+                                    discprice       log(prep.period) 
+            -6.3084001              0.4074586             -3.9755810 
+log(offering_duration) log(offering_duration)                        
+             9.3498859              5.3264614            -18.8684773 
+                       
+             3.2339067 
+40.213 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -15.8050951             -0.2066856              3.4783298 
+log(offering_duration) log(offering_duration)                        
+            -0.1458640              1.8420095             -1.5970557 
+                       
+            -0.3528686 
+4.432 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 318.7982
+                                    discprice       log(prep.period) 
+           -13.6167096             -0.1210918              1.6079153 
+log(offering_duration) log(offering_duration)                        
+             0.5459979              4.4868801             -3.9078332 
+                       
+            -4.2516899 
+28.617 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+          -9.421431037            0.005218381            1.897839784 
+log(offering_duration) log(offering_duration)                        
+           0.561721896            3.761168842           14.419327778 
+                       
+          -2.806499634 
+0.526 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 316.5291
+                                    discprice       log(prep.period) 
+         -15.737001808            0.052647320            0.440281998 
+log(offering_duration) log(offering_duration)                        
+           0.004893203            3.635380355            2.094010879 
+                       
+           0.485907705 
+                                    discprice       log(prep.period) 
+           -14.7604138              0.2192090             -0.0290270 
+log(offering_duration) log(offering_duration)                        
+             0.2696784              4.6119683              1.8226500 
+                       
+             1.4624957 
+                                    discprice       log(prep.period) 
+           -359.933683               5.321158              36.670503 
+log(offering_duration) log(offering_duration)                        
+             -5.987868              20.270619             129.239660 
+                       
+            403.860690 
+                                    discprice       log(prep.period) 
+           -650.251465               5.989947              69.934558 
+log(offering_duration) log(offering_duration)                        
+             -5.504159             121.520275             240.282843 
+                       
+            765.120206 
+                                    discprice       log(prep.period) 
+          -1000.997937               6.477514             113.336599 
+log(offering_duration) log(offering_duration)                        
+             -7.369451             314.852682             389.068159 
+                       
+           1192.575623 
+148.396 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 852.6049
+                                    discprice       log(prep.period) 
+           -1.70528075            -0.18077206             3.22725285 
+log(offering_duration) log(offering_duration)                        
+            0.01535638            -0.26050143             2.18771046 
+                       
+           -0.20058987 
+3.919 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] -Inf
+[1] "skip"
+[1] 316.9488
+                                    discprice       log(prep.period) 
+          -13.95839274             0.01711891            -0.38857678 
+log(offering_duration) log(offering_duration)                        
+            0.16814988             0.74482792            15.97813473 
+                       
+           -0.08899335 
+24.47 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 316.9404
+                                    discprice       log(prep.period) 
+          -16.57026965             0.06586917             0.10661880 
+log(offering_duration) log(offering_duration)                        
+           -0.17004557             3.67697549            11.17530388 
+                       
+            5.95683730 
+                                    discprice       log(prep.period) 
+           -16.0448049              1.7111623              0.1708603 
+log(offering_duration) log(offering_duration)                        
+            -1.1392292              3.2072488             10.9508732 
+                       
+             6.4973366 
+                                    discprice       log(prep.period) 
+           -147.813965               5.210725              13.045529 
+log(offering_duration) log(offering_duration)                        
+             22.393460              32.179883              76.348890 
+                       
+            -42.678540 
+                                    discprice       log(prep.period) 
+           -379.515434               6.166098              32.632897 
+log(offering_duration) log(offering_duration)                        
+             50.812714              75.365637             222.371657 
+                       
+           -120.094572 
+128.773 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] -Inf
+[1] "skip"
+[1] 349.5241
+                                    discprice       log(prep.period) 
+           -2.18168629             0.01658875             0.02064464 
+log(offering_duration) log(offering_duration)                        
+            0.43469095             1.79513056             2.77848019 
+                       
+            2.11306787 
+                                    discprice       log(prep.period) 
+           -1.33243409            -3.28879325            -0.02526323 
+log(offering_duration) log(offering_duration)                        
+            0.06027625             0.81735940             2.85263545 
+                       
+            3.82416810 
+                                    discprice       log(prep.period) 
+          -0.483356333           -4.298378176           -0.003469737 
+log(offering_duration) log(offering_duration)                        
+           0.013532265            1.101391799            2.120172195 
+                       
+           4.776302897 
+                                    discprice       log(prep.period) 
+          -0.483184587           -4.302106855           -0.003234747 
+log(offering_duration) log(offering_duration)                        
+           0.013008973            1.105181022            2.120178753 
+                       
+           4.777529002 
+108.542 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+          -4.770569336           -0.003953644            1.097573742 
+log(offering_duration) log(offering_duration)                        
+          -0.185461811            1.281047418           16.843896619 
+                       
+          15.293415695 
+15.649 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -8.78815988             0.06851396            -0.66005463 
+log(offering_duration) log(offering_duration)                        
+            0.48908694             1.53378198            -3.26619434 
+                       
+           13.37243115 
+                                    discprice       log(prep.period) 
+            -9.7117844              0.9379145             -3.2594797 
+log(offering_duration) log(offering_duration)                        
+             9.1260208              5.4153892            -18.2327711 
+                       
+             7.2291009 
+                                    discprice       log(prep.period) 
+           -222.910043               4.204875             -85.993591 
+log(offering_duration) log(offering_duration)                        
+            216.977279              98.412759            -390.276595 
+                       
+             67.479991 
+101.861 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+          -15.07872973            -0.01775452             0.88956513 
+log(offering_duration) log(offering_duration)                        
+           -0.05590991             1.36649545             4.12930946 
+                       
+           16.04278186 
+                                    discprice       log(prep.period) 
+           -16.0278738              2.2667787              0.9390636 
+log(offering_duration) log(offering_duration)                        
+             0.8967381              2.2790699              4.9700859 
+                       
+            13.7195591 
+49.445 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+            -2.6514825             -0.0690110              2.3635496 
+log(offering_duration) log(offering_duration)                        
+             0.4132443             -0.7844117             15.3067806 
+                       
+             2.3156751 
+                                    discprice       log(prep.period) 
+            -0.8650217             -0.7063120              1.9280366 
+log(offering_duration) log(offering_duration)                        
+             0.7348087              2.2823156             14.6248214 
+                       
+            -0.1358496 
+21.033 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+          -15.52675870            -0.23482846             1.73445487 
+log(offering_duration) log(offering_duration)                        
+           -0.03675836             2.53846227             6.66864866 
+                       
+            9.18980871 
+1.828 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+            -0.7659655             -0.1647269              1.2912939 
+log(offering_duration) log(offering_duration)                        
+             0.1220387              4.5820814             -2.4910318 
+                       
+            15.0556680 
+                                    discprice       log(prep.period) 
+              1.968116              -1.797353              -0.418944 
+log(offering_duration) log(offering_duration)                        
+              1.552571               8.580316              -8.044711 
+                       
+             15.614337 
+32.907 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 686.9825
+                                    discprice       log(prep.period) 
+           -11.0700423             -0.1538138              1.0555936 
+log(offering_duration) log(offering_duration)                        
+             0.3318303              1.7675202              9.1304623 
+                       
+            13.4771525 
+23.768 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 329.8082
+                                    discprice       log(prep.period) 
+           -4.43530854             0.06684967             0.48635585 
+log(offering_duration) log(offering_duration)                        
+            0.38862250             1.14774301            -0.95756605 
+                       
+           -5.17431468 
+                                    discprice       log(prep.period) 
+           -3.69468674            -0.88632453            -0.57951807 
+log(offering_duration) log(offering_duration)                        
+            2.00242516             1.91728206            -5.90801427 
+                       
+            0.01875787 
+55.688 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 365.4232
+                                    discprice       log(prep.period) 
+           -3.64086409             0.07736671             1.63040377 
+log(offering_duration) log(offering_duration)                        
+            0.56665153             3.68699314            -4.73286156 
+                       
+            1.46897129 
+                                    discprice       log(prep.period) 
+            -3.3563896             -0.6036015              1.5188922 
+log(offering_duration) log(offering_duration)                        
+            -0.5455512              4.0709080             -4.5565735 
+                       
+             3.6002981 
+                                    discprice       log(prep.period) 
+            -18.576719               1.839538              -6.759481 
+log(offering_duration) log(offering_duration)                        
+             16.578145               1.663035             -28.554324 
+                       
+            -56.018603 
+                                    discprice       log(prep.period) 
+           -391.084617               4.223912             -76.590012 
+log(offering_duration) log(offering_duration)                        
+            201.879223             -25.997076            -363.317571 
+                       
+           -909.200841 
+                                    discprice       log(prep.period) 
+            -979.87500                5.15491             -192.59819 
+log(offering_duration) log(offering_duration)                        
+             505.02069              -69.13935             -904.82037 
+                       
+           -2277.62817 
+156.108 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -2.36111715            -0.00367331             3.14651624 
+log(offering_duration) log(offering_duration)                        
+            0.29505873             2.46735135             0.56254673 
+                       
+           12.58288048 
+20.789 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -1.05582437             0.02843203             3.23997777 
+log(offering_duration) log(offering_duration)                        
+            0.49400922             3.21749622            -1.43788817 
+                       
+           13.99159693 
+                                    discprice       log(prep.period) 
+            -1.0987422              0.2057141              0.7411673 
+log(offering_duration) log(offering_duration)                        
+             6.9897084              1.8668211              1.9716765 
+                       
+            10.0040943 
+21.175 sec elapsed
+[1] 81 21
+[1] "skip"
+[1] 316.9589
+                                    discprice       log(prep.period) 
+         -14.733264329           -0.179581962            2.996148853 
+log(offering_duration) log(offering_duration)                        
+          -0.008259457           -0.051539799            5.980307700 
+                       
+          -3.596862809 
+1.939 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -7.56032797             0.08177625             3.80226884 
+log(offering_duration) log(offering_duration)                        
+            0.01770460             3.87041715            11.18009678 
+                       
+           16.28513438 
+21.993 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -3.56170027             0.06300793             3.94163713 
+log(offering_duration) log(offering_duration)                        
+            0.01111209             4.48881818             2.55668058 
+                       
+           -3.32019487 
+                                    discprice       log(prep.period) 
+             -4.379200              -1.754638               4.421628 
+log(offering_duration) log(offering_duration)                        
+              4.172284               3.787010               5.927262 
+                       
+             -5.151857 
+24.096 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -14.8946129             -0.2367008              2.1317565 
+log(offering_duration) log(offering_duration)                        
+             0.5719854              2.6771424             13.6809510 
+                       
+            13.2142676 
+0.846 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -1.85820948            -0.23713598             0.07745147 
+log(offering_duration) log(offering_duration)                        
+           -0.10327232             1.12437287             1.64416699 
+                       
+            8.38941212 
+                                    discprice       log(prep.period) 
+           -1.62691154            -4.08308660            -0.01046841 
+log(offering_duration) log(offering_duration)                        
+            0.02602671             1.15042434             0.34013215 
+                       
+            3.77449260 
+41.348 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -4.92815816            -0.09887965             2.59358007 
+log(offering_duration) log(offering_duration)                        
+            0.04726927             1.27929523             8.13102078 
+                       
+            8.90594269 
+21.121 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -1.44477922             0.04427684             0.12069765 
+log(offering_duration) log(offering_duration)                        
+           -0.19126176             0.86656818             7.88128485 
+                       
+            2.64849611 
+                                    discprice       log(prep.period) 
+            -0.7148561             -1.2315638             -0.3959397 
+log(offering_duration) log(offering_duration)                        
+             0.7093889              2.9870398              6.6812737 
+                       
+             2.5066519 
+                                    discprice       log(prep.period) 
+           -0.70618892            -1.79052174             0.01674394 
+log(offering_duration) log(offering_duration)                        
+            0.08716586             2.81042311             6.96406725 
+                       
+            3.27767190 
+53.495 sec elapsed
+[1] 81 21
+                                    discprice       log(prep.period) 
+           -12.3601627             -0.3039259              3.0171934 
+log(offering_duration) log(offering_duration)                        
+             0.1946227             -0.9236383              0.8358238 
+                       
+            -0.7504674 
+2.717 sec elapsed
+[1] 2
+> for (i in industries_to_est) {
++ mlefnvalue <- vector()
++ for (iter in 1:NumIter) {
++ 
++ if (mleout_h_ms[[iter]][[i]]$convergence == 0) {
++ 
++ 
++ mlefnvalue <- c(mlefnvalue, mleout_h_ms[[iter]][[i]]$value)
++ 
++ 
++ }
++ 
++ else {
++ 
++ 
++ mlefnvalue <- c(mlefnvalue, NA)
++ 
++ 
++ }
++ 
++ }
++ mlefnvalue_ls_h[[i]] <- mlefnvalue
++ print(i)
++ }
+[1] 2
+> mlefnvalue
+ [1] 308.4260 309.8409 311.4520 316.9404 311.4520 316.9404 308.6511 316.9404
+ [9] 311.4520       NA 309.9101 308.1486 309.6464 309.2148 308.1486 316.9404
+[17] 310.8563 313.8267 311.7170 309.1801 308.1486 308.0173 316.9404 308.1486
+[25] 308.1486 316.9404 314.5717 308.1486 308.1806 316.9404
+> mleout_h[[i]]
+$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -2.5809861              1.3555883 
+log(offering_duration) log(offering_duration)                        
+             7.6534464              2.2289391             -0.8947073 
+                       
+            13.5312410 
+
+$value
+[1] 308.0173
+
+$counts
+function gradient 
+     478       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_h_ms[[which(mlefnvalue == min(mlefnvalue, na.rm = TRUE))]][[i]]
+$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -2.5809861              1.3555883 
+log(offering_duration) log(offering_duration)                        
+             7.6534464              2.2289391             -0.8947073 
+                       
+            13.5312410 
+
+$value
+[1] 308.0173
+
+$counts
+function gradient 
+     478       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_h_1[[iter]]
+$par
+                                    discprice       log(prep.period) 
+            -13.562400             -14.975777              10.439794 
+log(offering_duration) log(offering_duration)                        
+             12.402423               9.498745               5.842806 
+                       
+             -7.630782 
+
+$value
+[1] 316.9404
+
+$counts
+function gradient 
+      56       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_h_1
+[[1]]
+[[1]]$par
+                                    discprice       log(prep.period) 
+           -0.70660009            -0.38594443            -0.02377844 
+log(offering_duration) log(offering_duration)                        
+            0.41591341             1.92788941             6.91304867 
+                       
+           10.29946327 
+
+[[1]]$value
+[1] 308.426
+
+[[1]]$counts
+function gradient 
+    1266       NA 
+
+[[1]]$convergence
+[1] 0
+
+[[1]]$message
+NULL
+
+
+[[2]]
+[[2]]$par
+                                    discprice       log(prep.period) 
+          -1061.124091               6.632818              84.839403 
+log(offering_duration) log(offering_duration)                        
+            -94.408288             477.168861             772.426719 
+                       
+             65.870142 
+
+[[2]]$value
+[1] 309.8409
+
+[[2]]$counts
+function gradient 
+    3061       NA 
+
+[[2]]$convergence
+[1] 0
+
+[[2]]$message
+NULL
+
+
+[[3]]
+[[3]]$par
+                                    discprice       log(prep.period) 
+            -6.5578889              0.4717746             -5.2833119 
+log(offering_duration) log(offering_duration)                        
+            11.6761124              7.0643781            -22.9336572 
+                       
+             1.9217427 
+
+[[3]]$value
+[1] 311.452
+
+[[3]]$counts
+function gradient 
+     896       NA 
+
+[[3]]$convergence
+[1] 0
+
+[[3]]$message
+NULL
+
+
+[[4]]
+[[4]]$par
+                                    discprice       log(prep.period) 
+            -15.371906             -11.911362               2.862326 
+log(offering_duration) log(offering_duration)                        
+             18.194078               3.062015               1.530210 
+                       
+             -3.594294 
+
+[[4]]$value
+[1] 316.9404
+
+[[4]]$counts
+function gradient 
+      99       NA 
+
+[[4]]$convergence
+[1] 0
+
+[[4]]$message
+NULL
+
+
+[[5]]
+[[5]]$par
+                                    discprice       log(prep.period) 
+            -6.5602858              0.4732681             -5.2916784 
+log(offering_duration) log(offering_duration)                        
+            11.6987916             17.7869151            -22.9844904 
+                       
+            31.6556039 
+
+[[5]]$value
+[1] 311.452
+
+[[5]]$counts
+function gradient 
+     632       NA 
+
+[[5]]$convergence
+[1] 0
+
+[[5]]$message
+NULL
+
+
+[[6]]
+[[6]]$par
+                                    discprice       log(prep.period) 
+          -7.979498259            0.005218381            1.897839784 
+log(offering_duration) log(offering_duration)                        
+           0.561721896            3.761168842           14.419327778 
+                       
+          -2.806499634 
+
+[[6]]$value
+[1] 316.9404
+
+[[6]]$counts
+function gradient 
+      10       NA 
+
+[[6]]$convergence
+[1] 0
+
+[[6]]$message
+NULL
+
+
+[[7]]
+[[7]]$par
+                                    discprice       log(prep.period) 
+          -1042.905894               6.521490             118.785226 
+log(offering_duration) log(offering_duration)                        
+             -6.956729             331.172011             403.954390 
+                       
+           1245.704003 
+
+[[7]]$value
+[1] 308.6511
+
+[[7]]$counts
+function gradient 
+    3281       NA 
+
+[[7]]$convergence
+[1] 0
+
+[[7]]$message
+NULL
+
+
+[[8]]
+[[8]]$par
+                                    discprice       log(prep.period) 
+             -8.194031              -1.923070               6.242613 
+log(offering_duration) log(offering_duration)                        
+             10.365032              -2.113771               7.631360 
+                       
+            -10.359533 
+
+[[8]]$value
+[1] 316.9404
+
+[[8]]$counts
+function gradient 
+      86       NA 
+
+[[8]]$convergence
+[1] 0
+
+[[8]]$message
+NULL
+
+
+[[9]]
+[[9]]$par
+                                    discprice       log(prep.period) 
+            -6.5593816              0.4729066             -5.2929289 
+log(offering_duration) log(offering_duration)                        
+            11.6976827             12.0133730            -22.9776201 
+                       
+            -6.8654006 
+
+[[9]]$value
+[1] 311.452
+
+[[9]]$counts
+function gradient 
+     542       NA 
+
+[[9]]$convergence
+[1] 0
+
+[[9]]$message
+NULL
+
+
+[[10]]
+[[10]]$par
+                                    discprice       log(prep.period) 
+            -566.16600                6.57591               47.92283 
+log(offering_duration) log(offering_duration)                        
+              81.02978              121.53729              326.14047 
+                       
+            -189.92189 
+
+[[10]]$value
+[1] 310.166
+
+[[10]]$counts
+function gradient 
+    2860       NA 
+
+[[10]]$convergence
+[1] 10
+
+[[10]]$message
+NULL
+
+
+[[11]]
+[[11]]$par
+                                    discprice       log(prep.period) 
+          -0.483184527           -4.302114374           -0.003234334 
+log(offering_duration) log(offering_duration)                        
+           0.013008064            1.105186949            2.120179861 
+                       
+           4.777530055 
+
+[[11]]$value
+[1] 309.9101
+
+[[11]]$counts
+function gradient 
+    2419       NA 
+
+[[11]]$convergence
+[1] 0
+
+[[11]]$message
+NULL
+
+
+[[12]]
+[[12]]$par
+                                    discprice       log(prep.period) 
+            -0.7078655             -2.8480922             -0.5003433 
+log(offering_duration) log(offering_duration)                        
+             0.2960440              4.7948245             16.3564551 
+                       
+            12.7600629 
+
+[[12]]$value
+[1] 308.1486
+
+[[12]]$counts
+function gradient 
+     342       NA 
+
+[[12]]$convergence
+[1] 0
+
+[[12]]$message
+NULL
+
+
+[[13]]
+[[13]]$par
+                                    discprice       log(prep.period) 
+           -519.854567               5.074816            -191.370132 
+log(offering_duration) log(offering_duration)                        
+            485.763185             211.976698            -866.469706 
+                       
+            187.748510 
+
+[[13]]$value
+[1] 309.6464
+
+[[13]]$counts
+function gradient 
+    2270       NA 
+
+[[13]]$convergence
+[1] 0
+
+[[13]]$message
+NULL
+
+
+[[14]]
+[[14]]$par
+                                    discprice       log(prep.period) 
+           -729.592480               5.155391              33.339321 
+log(offering_duration) log(offering_duration)                        
+            -50.183359              83.475898             227.224403 
+                       
+             25.535111 
+
+[[14]]$value
+[1] 309.2148
+
+[[14]]$counts
+function gradient 
+    1121       NA 
+
+[[14]]$convergence
+[1] 0
+
+[[14]]$message
+NULL
+
+
+[[15]]
+[[15]]$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -0.7900247              1.9905750 
+log(offering_duration) log(offering_duration)                        
+             0.9459808              2.2985753             14.7522548 
+                       
+            -0.2753732 
+
+[[15]]$value
+[1] 308.1486
+
+[[15]]$counts
+function gradient 
+     469       NA 
+
+[[15]]$convergence
+[1] 0
+
+[[15]]$message
+NULL
+
+
+[[16]]
+[[16]]$par
+                                    discprice       log(prep.period) 
+            -17.536486              -7.371063              -2.560534 
+log(offering_duration) log(offering_duration)                        
+              7.923452               8.126154              12.990284 
+                       
+              9.778975 
+
+[[16]]$value
+[1] 316.9404
+
+[[16]]$counts
+function gradient 
+      40       NA 
+
+[[16]]$convergence
+[1] 0
+
+[[16]]$message
+NULL
+
+
+[[17]]
+[[17]]$par
+                                    discprice       log(prep.period) 
+             1.9680709             -1.7972649             -0.4189346 
+log(offering_duration) log(offering_duration)                        
+             1.5525422              8.5802063             -8.0446326 
+                       
+            15.6143774 
+
+[[17]]$value
+[1] 310.8563
+
+[[17]]$counts
+function gradient 
+     733       NA 
+
+[[17]]$convergence
+[1] 0
+
+[[17]]$message
+NULL
+
+
+[[18]]
+[[18]]$par
+                                    discprice       log(prep.period) 
+            -6.7130419              1.5696539              0.4682954 
+log(offering_duration) log(offering_duration)                        
+             0.7150728              2.3915720              3.0379841 
+                       
+            14.3071251 
+
+[[18]]$value
+[1] 313.8267
+
+[[18]]$counts
+function gradient 
+     520       NA 
+
+[[18]]$convergence
+[1] 0
+
+[[18]]$message
+NULL
+
+
+[[19]]
+[[19]]$par
+                                    discprice       log(prep.period) 
+           -10.2874164              0.8412323             -3.7523875 
+log(offering_duration) log(offering_duration)                        
+             9.3686209            -35.5890817            -18.1276564 
+                       
+           -34.9212966 
+
+[[19]]$value
+[1] 311.717
+
+[[19]]$counts
+function gradient 
+    1254       NA 
+
+[[19]]$convergence
+[1] 0
+
+[[19]]$message
+NULL
+
+
+[[20]]
+[[20]]$par
+                                    discprice       log(prep.period) 
+          -1320.534652               5.455035            -259.724908 
+log(offering_duration) log(offering_duration)                        
+            680.448217             -94.063311           -1218.194185 
+                       
+          -3068.947843 
+
+[[20]]$value
+[1] 309.1801
+
+[[20]]$counts
+function gradient 
+    3501       NA 
+
+[[20]]$convergence
+[1] 0
+
+[[20]]$message
+NULL
+
+
+[[21]]
+[[21]]$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -4.4074093              3.9542724 
+log(offering_duration) log(offering_duration)                        
+            11.6477618              3.6561560              7.3768885 
+                       
+            -2.0373476 
+
+[[21]]$value
+[1] 308.1486
+
+[[21]]$counts
+function gradient 
+     468       NA 
+
+[[21]]$convergence
+[1] 0
+
+[[21]]$message
+NULL
+
+
+[[22]]
+[[22]]$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -2.5809861              1.3555883 
+log(offering_duration) log(offering_duration)                        
+             7.6534464              2.2289391             -0.8947073 
+                       
+            13.5312410 
+
+[[22]]$value
+[1] 308.0173
+
+[[22]]$counts
+function gradient 
+     478       NA 
+
+[[22]]$convergence
+[1] 0
+
+[[22]]$message
+NULL
+
+
+[[23]]
+[[23]]$par
+                                    discprice       log(prep.period) 
+            -11.017632              -8.647867               7.897310 
+log(offering_duration) log(offering_duration)                        
+             10.203916               7.637109               6.408740 
+                       
+            -13.893936 
+
+[[23]]$value
+[1] 316.9404
+
+[[23]]$counts
+function gradient 
+      42       NA 
+
+[[23]]$convergence
+[1] 0
+
+[[23]]$message
+NULL
+
+
+[[24]]
+[[24]]$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -3.2813299              2.4260165 
+log(offering_duration) log(offering_duration)                        
+             4.9646724              2.9422295             11.7108185 
+                       
+            14.7985904 
+
+[[24]]$value
+[1] 308.1486
+
+[[24]]$counts
+function gradient 
+     496       NA 
+
+[[24]]$convergence
+[1] 0
+
+[[24]]$message
+NULL
+
+
+[[25]]
+[[25]]$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -2.0847937              2.8067252 
+log(offering_duration) log(offering_duration)                        
+             4.6908430              2.9950691              5.8580118 
+                       
+            -4.5803667 
+
+[[25]]$value
+[1] 308.1486
+
+[[25]]$counts
+function gradient 
+     544       NA 
+
+[[25]]$convergence
+[1] 0
+
+[[25]]$message
+NULL
+
+
+[[26]]
+[[26]]$par
+                                    discprice       log(prep.period) 
+           -14.2001749             -3.2516037              0.6679954 
+log(offering_duration) log(offering_duration)                        
+             2.7254874              4.8306445             15.8344530 
+                       
+            12.6878559 
+
+[[26]]$value
+[1] 316.9404
+
+[[26]]$counts
+function gradient 
+      18       NA 
+
+[[26]]$convergence
+[1] 0
+
+[[26]]$message
+NULL
+
+
+[[27]]
+[[27]]$par
+                                    discprice       log(prep.period) 
+           -1.38545599            -4.26790408            -0.00835506 
+log(offering_duration) log(offering_duration)                        
+            0.02084836             1.13651927             0.23845101 
+                       
+            3.03557453 
+
+[[27]]$value
+[1] 314.5717
+
+[[27]]$counts
+function gradient 
+     928       NA 
+
+[[27]]$convergence
+[1] 0
+
+[[27]]$message
+NULL
+
+
+[[28]]
+[[28]]$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -4.0132773              2.4066071 
+log(offering_duration) log(offering_duration)                        
+             6.7566395              6.4459556              4.3110831 
+                       
+             3.7477777 
+
+[[28]]$value
+[1] 308.1486
+
+[[28]]$counts
+function gradient 
+     478       NA 
+
+[[28]]$convergence
+[1] 0
+
+[[28]]$message
+NULL
+
+
+[[29]]
+[[29]]$par
+                                    discprice       log(prep.period) 
+           -0.70618738            -1.79279346             0.01670028 
+log(offering_duration) log(offering_duration)                        
+            0.08770191             2.81148302             6.96143833 
+                       
+            3.27963100 
+
+[[29]]$value
+[1] 308.1806
+
+[[29]]$counts
+function gradient 
+    1209       NA 
+
+[[29]]$convergence
+[1] 0
+
+[[29]]$message
+NULL
+
+
+[[30]]
+[[30]]$par
+                                    discprice       log(prep.period) 
+            -13.562400             -14.975777              10.439794 
+log(offering_duration) log(offering_duration)                        
+             12.402423               9.498745               5.842806 
+                       
+             -7.630782 
+
+[[30]]$value
+[1] 316.9404
+
+[[30]]$counts
+function gradient 
+      56       NA 
+
+[[30]]$convergence
+[1] 0
+
+[[30]]$message
+NULL
+
+
+> for (i in industries_to_est) {
++ mlefnvalue <- vector()
++ for (iter in 1:NumIter) {
++ 
++ if (mleout_h_ms[[iter]][[i]]$convergence == 0) {
++ 
++ 
++ mlefnvalue <- c(mlefnvalue, mleout_h_ms[[iter]][[i]]$value)
++ 
++ 
++ }
++ 
++ else {
++ 
++ 
++ mlefnvalue <- c(mlefnvalue, NA)
++ 
++ 
++ }
++ 
++ }
++ mlefnvalue_ls_h[[i]] <- mlefnvalue
++ print(i)
++ }
+[1] 2
+> mlefnvalue
+ [1] 308.4260 309.8409 311.4520 316.9404 311.4520 316.9404 308.6511 316.9404
+ [9] 311.4520       NA 309.9101 308.1486 309.6464 309.2148 308.1486 316.9404
+[17] 310.8563 313.8267 311.7170 309.1801 308.1486 308.0173 316.9404 308.1486
+[25] 308.1486 316.9404 314.5717 308.1486 308.1806 316.9404
+> which(mlefnvalue == min(mlefnvalue, na.rm = TRUE))
+[1] 22
+> mleout_h_ms[[22]][[2]]
+$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -2.5809861              1.3555883 
+log(offering_duration) log(offering_duration)                        
+             7.6534464              2.2289391             -0.8947073 
+                       
+            13.5312410 
+
+$value
+[1] 308.0173
+
+$counts
+function gradient 
+     478       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_h_ms[[21]][[2]]
+$par
+                                    discprice       log(prep.period) 
+            -0.7078658             -4.4074093              3.9542724 
+log(offering_duration) log(offering_duration)                        
+            11.6477618              3.6561560              7.3768885 
+                       
+            -2.0373476 
+
+$value
+[1] 308.1486
+
+$counts
+function gradient 
+     468       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+

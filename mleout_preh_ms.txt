@@ -1,0 +1,6451 @@
+> mleout_preh_ms
+[[1]]
+[[1]][[1]]
+[[1]][[1]]$par
+                                              log(offering_duration) 
+             -9.422560               8.452599               3.927649 
+             discprice 
+              3.797527 
+
+[[1]][[1]]$value
+[1] 913.0798
+
+[[1]][[1]]$counts
+function gradient 
+     323       NA 
+
+[[1]][[1]]$convergence
+[1] 0
+
+[[1]][[1]]$message
+NULL
+
+
+[[1]][[2]]
+[[1]][[2]]$par
+                                              log(offering_duration) 
+            -6.0964520              6.3684045              1.8059961 
+             discprice 
+             0.3189079 
+
+[[1]][[2]]$value
+[1] 114.569
+
+[[1]][[2]]$counts
+function gradient 
+     273       NA 
+
+[[1]][[2]]$convergence
+[1] 0
+
+[[1]][[2]]$message
+NULL
+
+
+[[1]][[3]]
+[[1]][[3]]$par
+                                              log(offering_duration) 
+            -26.595416              -2.606872              23.850570 
+             discprice 
+            -14.292893 
+
+[[1]][[3]]$value
+[1] 5490.742
+
+[[1]][[3]]$counts
+function gradient 
+      47       NA 
+
+[[1]][[3]]$convergence
+[1] 0
+
+[[1]][[3]]$message
+NULL
+
+
+[[1]][[4]]
+[[1]][[4]]$par
+                                              log(offering_duration) 
+             -7.362585            -182.549935             231.520250 
+             discprice 
+            176.085219 
+
+[[1]][[4]]$value
+[1] 1000.327
+
+[[1]][[4]]$counts
+function gradient 
+     333       NA 
+
+[[1]][[4]]$convergence
+[1] 0
+
+[[1]][[4]]$message
+NULL
+
+
+[[1]][[5]]
+[[1]][[5]]$par
+                                              log(offering_duration) 
+             -8.762110               9.225067               4.245301 
+             discprice 
+              2.457390 
+
+[[1]][[5]]$value
+[1] 504.9853
+
+[[1]][[5]]$counts
+function gradient 
+      53       NA 
+
+[[1]][[5]]$convergence
+[1] 0
+
+[[1]][[5]]$message
+NULL
+
+
+[[1]][[6]]
+[[1]][[6]]$par
+                                              log(offering_duration) 
+            -3.2344067              1.5172543              2.6444487 
+             discprice 
+             0.7388685 
+
+[[1]][[6]]$value
+[1] 339.0026
+
+[[1]][[6]]$counts
+function gradient 
+      69       NA 
+
+[[1]][[6]]$convergence
+[1] 0
+
+[[1]][[6]]$message
+NULL
+
+
+[[1]][[7]]
+[[1]][[7]]$par
+                                              log(offering_duration) 
+            -19.041461              19.093764               6.852623 
+             discprice 
+              7.575729 
+
+[[1]][[7]]$value
+[1] 160.7308
+
+[[1]][[7]]$counts
+function gradient 
+      35       NA 
+
+[[1]][[7]]$convergence
+[1] 0
+
+[[1]][[7]]$message
+NULL
+
+
+[[1]][[8]]
+[[1]][[8]]$par
+                                              log(offering_duration) 
+             -9.488687              -7.149991               2.506928 
+             discprice 
+              1.320458 
+
+[[1]][[8]]$value
+[1] 452.0131
+
+[[1]][[8]]$counts
+function gradient 
+      61       NA 
+
+[[1]][[8]]$convergence
+[1] 0
+
+[[1]][[8]]$message
+NULL
+
+
+[[1]][[9]]
+NULL
+
+[[1]][[10]]
+[[1]][[10]]$par
+                                              log(offering_duration) 
+             -38.50322              -71.54912               99.57975 
+             discprice 
+             -19.71382 
+
+[[1]][[10]]$value
+[1] 700.3556
+
+[[1]][[10]]$counts
+function gradient 
+      45       NA 
+
+[[1]][[10]]$convergence
+[1] 0
+
+[[1]][[10]]$message
+NULL
+
+
+[[1]][[11]]
+[[1]][[11]]$par
+                                              log(offering_duration) 
+            -0.3005856              7.2603207             25.0917648 
+             discprice 
+           -13.7171539 
+
+[[1]][[11]]$value
+[1] 2459.174
+
+[[1]][[11]]$counts
+function gradient 
+      35       NA 
+
+[[1]][[11]]$convergence
+[1] 0
+
+[[1]][[11]]$message
+NULL
+
+
+
+[[2]]
+[[2]][[1]]
+[[2]][[1]]$par
+                                              log(offering_duration) 
+             -27.14481             -101.28974               86.73784 
+             discprice 
+             -11.56900 
+
+[[2]][[1]]$value
+[1] 919.023
+
+[[2]][[1]]$counts
+function gradient 
+      45       NA 
+
+[[2]][[1]]$convergence
+[1] 0
+
+[[2]][[1]]$message
+NULL
+
+
+[[2]][[2]]
+[[2]][[2]]$par
+                                              log(offering_duration) 
+             -5.746241             -13.556590              37.205819 
+             discprice 
+              4.393355 
+
+[[2]][[2]]$value
+[1] 115.1339
+
+[[2]][[2]]$counts
+function gradient 
+     239       NA 
+
+[[2]][[2]]$convergence
+[1] 0
+
+[[2]][[2]]$message
+NULL
+
+
+[[2]][[3]]
+[[2]][[3]]$par
+                                              log(offering_duration) 
+           -107.549404               4.967209              15.827468 
+             discprice 
+            -13.060662 
+
+[[2]][[3]]$value
+[1] 5489.795
+
+[[2]][[3]]$counts
+function gradient 
+     159       NA 
+
+[[2]][[3]]$convergence
+[1] 0
+
+[[2]][[3]]$message
+NULL
+
+
+[[2]][[4]]
+[[2]][[4]]$par
+                                              log(offering_duration) 
+             -7.766518               4.192725               2.333907 
+             discprice 
+             -2.686923 
+
+[[2]][[4]]$value
+[1] 1000.341
+
+[[2]][[4]]$counts
+function gradient 
+     113       NA 
+
+[[2]][[4]]$convergence
+[1] 0
+
+[[2]][[4]]$message
+NULL
+
+
+[[2]][[5]]
+[[2]][[5]]$par
+                                              log(offering_duration) 
+             -7.339502              -8.828870              11.260971 
+             discprice 
+             -1.050237 
+
+[[2]][[5]]$value
+[1] 505.5393
+
+[[2]][[5]]$counts
+function gradient 
+     123       NA 
+
+[[2]][[5]]$convergence
+[1] 0
+
+[[2]][[5]]$message
+NULL
+
+
+[[2]][[6]]
+[[2]][[6]]$par
+                                              log(offering_duration) 
+            -3.2353366              1.3272933              1.9398914 
+             discprice 
+             0.3215185 
+
+[[2]][[6]]$value
+[1] 339.0024
+
+[[2]][[6]]$counts
+function gradient 
+      91       NA 
+
+[[2]][[6]]$convergence
+[1] 0
+
+[[2]][[6]]$message
+NULL
+
+
+[[2]][[7]]
+[[2]][[7]]$par
+                                              log(offering_duration) 
+            -20.178427              22.110266               3.774086 
+             discprice 
+              1.512691 
+
+[[2]][[7]]$value
+[1] 160.7308
+
+[[2]][[7]]$counts
+function gradient 
+      73       NA 
+
+[[2]][[7]]$convergence
+[1] 0
+
+[[2]][[7]]$message
+NULL
+
+
+[[2]][[8]]
+[[2]][[8]]$par
+                                              log(offering_duration) 
+             -9.502807              -5.720075               3.143100 
+             discprice 
+              1.895370 
+
+[[2]][[8]]$value
+[1] 452.0131
+
+[[2]][[8]]$counts
+function gradient 
+      67       NA 
+
+[[2]][[8]]$convergence
+[1] 0
+
+[[2]][[8]]$message
+NULL
+
+
+[[2]][[9]]
+NULL
+
+[[2]][[10]]
+[[2]][[10]]$par
+                                              log(offering_duration) 
+             -4.119833             -42.488012               3.511183 
+             discprice 
+             72.320435 
+
+[[2]][[10]]$value
+[1] 1194.477
+
+[[2]][[10]]$counts
+function gradient 
+    5001       NA 
+
+[[2]][[10]]$convergence
+[1] 1
+
+[[2]][[10]]$message
+NULL
+
+
+[[2]][[11]]
+[[2]][[11]]$par
+                                              log(offering_duration) 
+            -1.1099256             -1.3523594             12.6105056 
+             discprice 
+             0.6102192 
+
+[[2]][[11]]$value
+[1] 272.4505
+
+[[2]][[11]]$counts
+function gradient 
+      29       NA 
+
+[[2]][[11]]$convergence
+[1] 0
+
+[[2]][[11]]$message
+NULL
+
+
+
+[[3]]
+[[3]][[1]]
+[[3]][[1]]$par
+                                              log(offering_duration) 
+            -20.320588               4.821728              19.255497 
+             discprice 
+             -3.632800 
+
+[[3]][[1]]$value
+[1] 915.3518
+
+[[3]][[1]]$counts
+function gradient 
+     139       NA 
+
+[[3]][[1]]$convergence
+[1] 0
+
+[[3]][[1]]$message
+NULL
+
+
+[[3]][[2]]
+[[3]][[2]]$par
+                                              log(offering_duration) 
+             -6.194151               6.431005               5.688924 
+             discprice 
+              8.151586 
+
+[[3]][[2]]$value
+[1] 114.6516
+
+[[3]][[2]]$counts
+function gradient 
+      55       NA 
+
+[[3]][[2]]$convergence
+[1] 0
+
+[[3]][[2]]$message
+NULL
+
+
+[[3]][[3]]
+[[3]][[3]]$par
+                                              log(offering_duration) 
+             -7.701592               4.988960              13.669153 
+             discprice 
+            -11.585148 
+
+[[3]][[3]]$value
+[1] 5535.929
+
+[[3]][[3]]$counts
+function gradient 
+      33       NA 
+
+[[3]][[3]]$convergence
+[1] 0
+
+[[3]][[3]]$message
+NULL
+
+
+[[3]][[4]]
+[[3]][[4]]$par
+                                              log(offering_duration) 
+            -7.8217199             -3.5751091              2.5531043 
+             discprice 
+            -0.7638397 
+
+[[3]][[4]]$value
+[1] 1000.369
+
+[[3]][[4]]$counts
+function gradient 
+     119       NA 
+
+[[3]][[4]]$convergence
+[1] 0
+
+[[3]][[4]]$message
+NULL
+
+
+[[3]][[5]]
+[[3]][[5]]$par
+                                              log(offering_duration) 
+           -7.93019107             6.09412830            -3.08932619 
+             discprice 
+           -0.07554647 
+
+[[3]][[5]]$value
+[1] 500.133
+
+[[3]][[5]]$counts
+function gradient 
+     601       NA 
+
+[[3]][[5]]$convergence
+[1] 0
+
+[[3]][[5]]$message
+NULL
+
+
+[[3]][[6]]
+[[3]][[6]]$par
+                                              log(offering_duration) 
+            -3.2458562              0.8167337             -0.5936505 
+             discprice 
+            -0.1343369 
+
+[[3]][[6]]$value
+[1] 338.9093
+
+[[3]][[6]]$counts
+function gradient 
+     205       NA 
+
+[[3]][[6]]$convergence
+[1] 0
+
+[[3]][[6]]$message
+NULL
+
+
+[[3]][[7]]
+[[3]][[7]]$par
+                                              log(offering_duration) 
+            -24.728207              25.447130               6.884744 
+             discprice 
+              5.158096 
+
+[[3]][[7]]$value
+[1] 160.7308
+
+[[3]][[7]]$counts
+function gradient 
+      71       NA 
+
+[[3]][[7]]$convergence
+[1] 0
+
+[[3]][[7]]$message
+NULL
+
+
+[[3]][[8]]
+[[3]][[8]]$par
+                                              log(offering_duration) 
+            -9.4728530             -0.8855586             12.5863171 
+             discprice 
+            -4.0743015 
+
+[[3]][[8]]$value
+[1] 452.0124
+
+[[3]][[8]]$counts
+function gradient 
+      75       NA 
+
+[[3]][[8]]$convergence
+[1] 0
+
+[[3]][[8]]$message
+NULL
+
+
+[[3]][[9]]
+NULL
+
+[[3]][[10]]
+[[3]][[10]]$par
+                                              log(offering_duration) 
+             -8.119097               4.233746               5.005379 
+             discprice 
+             -7.583122 
+
+[[3]][[10]]$value
+[1] 697.5488
+
+[[3]][[10]]$counts
+function gradient 
+     245       NA 
+
+[[3]][[10]]$convergence
+[1] 0
+
+[[3]][[10]]$message
+NULL
+
+
+[[3]][[11]]
+[[3]][[11]]$par
+                                              log(offering_duration) 
+             -4.796038               6.724940               7.122437 
+             discprice 
+            -12.310819 
+
+[[3]][[11]]$value
+[1] 66.29056
+
+[[3]][[11]]$counts
+function gradient 
+     201       NA 
+
+[[3]][[11]]$convergence
+[1] 0
+
+[[3]][[11]]$message
+NULL
+
+
+
+[[4]]
+[[4]][[1]]
+[[4]][[1]]$par
+                                              log(offering_duration) 
+             -43.90555              -89.30017              121.17929 
+             discprice 
+             -21.34697 
+
+[[4]][[1]]$value
+[1] 919.023
+
+[[4]][[1]]$counts
+function gradient 
+      49       NA 
+
+[[4]][[1]]$convergence
+[1] 0
+
+[[4]][[1]]$message
+NULL
+
+
+[[4]][[2]]
+[[4]][[2]]$par
+                                              log(offering_duration) 
+             -5.646932              -5.953327               2.726884 
+             discprice 
+              7.309455 
+
+[[4]][[2]]$value
+[1] 115.1235
+
+[[4]][[2]]$counts
+function gradient 
+     199       NA 
+
+[[4]][[2]]$convergence
+[1] 0
+
+[[4]][[2]]$message
+NULL
+
+
+[[4]][[3]]
+[[4]][[3]]$par
+                                              log(offering_duration) 
+            -14.611214               4.095974              14.653431 
+             discprice 
+             -9.969167 
+
+[[4]][[3]]$value
+[1] 5490.123
+
+[[4]][[3]]$counts
+function gradient 
+      47       NA 
+
+[[4]][[3]]$convergence
+[1] 0
+
+[[4]][[3]]$message
+NULL
+
+
+[[4]][[4]]
+[[4]][[4]]$par
+                                              log(offering_duration) 
+            -7.8225883             -3.5019442              4.9069143 
+             discprice 
+            -0.2063566 
+
+[[4]][[4]]$value
+[1] 1000.369
+
+[[4]][[4]]$counts
+function gradient 
+     105       NA 
+
+[[4]][[4]]$convergence
+[1] 0
+
+[[4]][[4]]$message
+NULL
+
+
+[[4]][[5]]
+[[4]][[5]]$par
+                                              log(offering_duration) 
+             -7.342119              -7.325719               5.595600 
+             discprice 
+             -4.251239 
+
+[[4]][[5]]$value
+[1] 505.5393
+
+[[4]][[5]]$counts
+function gradient 
+     103       NA 
+
+[[4]][[5]]$convergence
+[1] 0
+
+[[4]][[5]]$message
+NULL
+
+
+[[4]][[6]]
+[[4]][[6]]$par
+                                              log(offering_duration) 
+             -3.222187              23.047850               2.657099 
+             discprice 
+             -4.036538 
+
+[[4]][[6]]$value
+[1] 338.3675
+
+[[4]][[6]]$counts
+function gradient 
+     683       NA 
+
+[[4]][[6]]$convergence
+[1] 0
+
+[[4]][[6]]$message
+NULL
+
+
+[[4]][[7]]
+[[4]][[7]]$par
+                                              log(offering_duration) 
+            -23.494833              24.642855               7.215165 
+             discprice 
+              4.160710 
+
+[[4]][[7]]$value
+[1] 160.7308
+
+[[4]][[7]]$counts
+function gradient 
+      57       NA 
+
+[[4]][[7]]$convergence
+[1] 0
+
+[[4]][[7]]$message
+NULL
+
+
+[[4]][[8]]
+[[4]][[8]]$par
+                                              log(offering_duration) 
+             -7.928298               7.376980               7.061304 
+             discprice 
+             -1.037841 
+
+[[4]][[8]]$value
+[1] 445.7093
+
+[[4]][[8]]$counts
+function gradient 
+     175       NA 
+
+[[4]][[8]]$convergence
+[1] 0
+
+[[4]][[8]]$message
+NULL
+
+
+[[4]][[9]]
+NULL
+
+[[4]][[10]]
+[[4]][[10]]$par
+                                              log(offering_duration) 
+            -21.953628               3.877263              27.893282 
+             discprice 
+             -6.944453 
+
+[[4]][[10]]$value
+[1] 697.9104
+
+[[4]][[10]]$counts
+function gradient 
+     183       NA 
+
+[[4]][[10]]$convergence
+[1] 0
+
+[[4]][[10]]$message
+NULL
+
+
+[[4]][[11]]
+[[4]][[11]]$par
+                                              log(offering_duration) 
+             -6.104105              -1.638770               4.873586 
+             discprice 
+              2.352909 
+
+[[4]][[11]]$value
+[1] 69.76892
+
+[[4]][[11]]$counts
+function gradient 
+      71       NA 
+
+[[4]][[11]]$convergence
+[1] 0
+
+[[4]][[11]]$message
+NULL
+
+
+
+[[5]]
+[[5]][[1]]
+[[5]][[1]]$par
+                                              log(offering_duration) 
+             -39.55622             -112.67149              118.73981 
+             discprice 
+             -13.80934 
+
+[[5]][[1]]$value
+[1] 919.023
+
+[[5]][[1]]$counts
+function gradient 
+      45       NA 
+
+[[5]][[1]]$convergence
+[1] 0
+
+[[5]][[1]]$message
+NULL
+
+
+[[5]][[2]]
+[[5]][[2]]$par
+                                              log(offering_duration) 
+             -6.194661              17.205813               6.858240 
+             discprice 
+              5.969551 
+
+[[5]][[2]]$value
+[1] 114.6516
+
+[[5]][[2]]$counts
+function gradient 
+      63       NA 
+
+[[5]][[2]]$convergence
+[1] 0
+
+[[5]][[2]]$message
+NULL
+
+
+[[5]][[3]]
+[[5]][[3]]$par
+                                              log(offering_duration) 
+             -5.601847              -6.814809              11.848483 
+             discprice 
+              4.616252 
+
+[[5]][[3]]$value
+[1] 6252.884
+
+[[5]][[3]]$counts
+function gradient 
+      93       NA 
+
+[[5]][[3]]$convergence
+[1] 0
+
+[[5]][[3]]$message
+NULL
+
+
+[[5]][[4]]
+[[5]][[4]]$par
+                                              log(offering_duration) 
+             -7.822289              -1.578526               3.304459 
+             discprice 
+             -1.752351 
+
+[[5]][[4]]$value
+[1] 1000.369
+
+[[5]][[4]]$counts
+function gradient 
+      99       NA 
+
+[[5]][[4]]$convergence
+[1] 0
+
+[[5]][[4]]$message
+NULL
+
+
+[[5]][[5]]
+[[5]][[5]]$par
+                                              log(offering_duration) 
+             -8.935565              10.093553               5.350882 
+             discprice 
+              2.124915 
+
+[[5]][[5]]$value
+[1] 504.9856
+
+[[5]][[5]]$counts
+function gradient 
+      33       NA 
+
+[[5]][[5]]$convergence
+[1] 0
+
+[[5]][[5]]$message
+NULL
+
+
+[[5]][[6]]
+[[5]][[6]]$par
+                                              log(offering_duration) 
+            -3.2354858              7.6315436              3.5240450 
+             discprice 
+             0.4949141 
+
+[[5]][[6]]$value
+[1] 339.0026
+
+[[5]][[6]]$counts
+function gradient 
+      77       NA 
+
+[[5]][[6]]$convergence
+[1] 0
+
+[[5]][[6]]$message
+NULL
+
+
+[[5]][[7]]
+[[5]][[7]]$par
+                                              log(offering_duration) 
+            -20.175079              20.147906               6.601551 
+             discprice 
+              7.769059 
+
+[[5]][[7]]$value
+[1] 160.7308
+
+[[5]][[7]]$counts
+function gradient 
+      37       NA 
+
+[[5]][[7]]$convergence
+[1] 0
+
+[[5]][[7]]$message
+NULL
+
+
+[[5]][[8]]
+[[5]][[8]]$par
+                                              log(offering_duration) 
+             -9.492879              -5.855350               3.974198 
+             discprice 
+              1.295380 
+
+[[5]][[8]]$value
+[1] 452.0131
+
+[[5]][[8]]$counts
+function gradient 
+      57       NA 
+
+[[5]][[8]]$convergence
+[1] 0
+
+[[5]][[8]]$message
+NULL
+
+
+[[5]][[9]]
+NULL
+
+[[5]][[10]]
+[[5]][[10]]$par
+                                              log(offering_duration) 
+             -9.920393            -182.767396              48.374899 
+             discprice 
+            209.690271 
+
+[[5]][[10]]$value
+[1] 699.6083
+
+[[5]][[10]]$counts
+function gradient 
+     675       NA 
+
+[[5]][[10]]$convergence
+[1] 0
+
+[[5]][[10]]$message
+NULL
+
+
+[[5]][[11]]
+[[5]][[11]]$par
+                                              log(offering_duration) 
+             -4.651655               4.209088               2.589440 
+             discprice 
+              0.459803 
+
+[[5]][[11]]$value
+[1] 65.84366
+
+[[5]][[11]]$counts
+function gradient 
+     231       NA 
+
+[[5]][[11]]$convergence
+[1] 0
+
+[[5]][[11]]$message
+NULL
+
+
+
+[[6]]
+[[6]][[1]]
+[[6]][[1]]$par
+                                              log(offering_duration) 
+            -25.064062               4.822966               4.632340 
+             discprice 
+             -3.643305 
+
+[[6]][[1]]$value
+[1] 915.3518
+
+[[6]][[1]]$counts
+function gradient 
+     159       NA 
+
+[[6]][[1]]$convergence
+[1] 0
+
+[[6]][[1]]$message
+NULL
+
+
+[[6]][[2]]
+[[6]][[2]]$par
+                                              log(offering_duration) 
+             -6.225982               7.850832               4.331086 
+             discprice 
+              0.736115 
+
+[[6]][[2]]$value
+[1] 114.6518
+
+[[6]][[2]]$counts
+function gradient 
+      47       NA 
+
+[[6]][[2]]$convergence
+[1] 0
+
+[[6]][[2]]$message
+NULL
+
+
+[[6]][[3]]
+[[6]][[3]]$par
+                                              log(offering_duration) 
+             -7.527864             -82.879476              28.641112 
+             discprice 
+            105.410584 
+
+[[6]][[3]]$value
+[1] 5569.232
+
+[[6]][[3]]$counts
+function gradient 
+     365       NA 
+
+[[6]][[3]]$convergence
+[1] 0
+
+[[6]][[3]]$message
+NULL
+
+
+[[6]][[4]]
+[[6]][[4]]$par
+                                              log(offering_duration) 
+             -7.858075            -238.807309             464.745536 
+             discprice 
+             93.424114 
+
+[[6]][[4]]$value
+[1] 1000.266
+
+[[6]][[4]]$counts
+function gradient 
+     229       NA 
+
+[[6]][[4]]$convergence
+[1] 0
+
+[[6]][[4]]$message
+NULL
+
+
+[[6]][[5]]
+[[6]][[5]]$par
+                                              log(offering_duration) 
+            -7.3394113             -7.3893498             12.7145093 
+             discprice 
+            -0.9181538 
+
+[[6]][[5]]$value
+[1] 505.5393
+
+[[6]][[5]]$counts
+function gradient 
+      91       NA 
+
+[[6]][[5]]$convergence
+[1] 0
+
+[[6]][[5]]$message
+NULL
+
+
+[[6]][[6]]
+[[6]][[6]]$par
+                                              log(offering_duration) 
+            -3.2338824             -2.2376273              3.0778411 
+             discprice 
+            -0.1682439 
+
+[[6]][[6]]$value
+[1] 339.0026
+
+[[6]][[6]]$counts
+function gradient 
+      69       NA 
+
+[[6]][[6]]$convergence
+[1] 0
+
+[[6]][[6]]$message
+NULL
+
+
+[[6]][[7]]
+[[6]][[7]]$par
+                                              log(offering_duration) 
+             -6.615692              -4.708450               2.990735 
+             discprice 
+              2.163463 
+
+[[6]][[7]]$value
+[1] 161.6556
+
+[[6]][[7]]$counts
+function gradient 
+      71       NA 
+
+[[6]][[7]]$convergence
+[1] 0
+
+[[6]][[7]]$message
+NULL
+
+
+[[6]][[8]]
+[[6]][[8]]$par
+                                              log(offering_duration) 
+             -7.922620               7.374718               5.900130 
+             discprice 
+             -1.016543 
+
+[[6]][[8]]$value
+[1] 445.7089
+
+[[6]][[8]]$counts
+function gradient 
+     185       NA 
+
+[[6]][[8]]$convergence
+[1] 0
+
+[[6]][[8]]$message
+NULL
+
+
+[[6]][[9]]
+NULL
+
+[[6]][[10]]
+[[6]][[10]]$par
+                                              log(offering_duration) 
+             -34.08061              -83.88957              128.99076 
+             discprice 
+            -190.48263 
+
+[[6]][[10]]$value
+[1] 700.3556
+
+[[6]][[10]]$counts
+function gradient 
+      99       NA 
+
+[[6]][[10]]$convergence
+[1] 0
+
+[[6]][[10]]$message
+NULL
+
+
+[[6]][[11]]
+[[6]][[11]]$par
+                                              log(offering_duration) 
+            -4.7027510              4.2448164              0.2093465 
+             discprice 
+             0.4694210 
+
+[[6]][[11]]$value
+[1] 65.56066
+
+[[6]][[11]]$counts
+function gradient 
+     365       NA 
+
+[[6]][[11]]$convergence
+[1] 0
+
+[[6]][[11]]$message
+NULL
+
+
+
+[[7]]
+[[7]][[1]]
+[[7]][[1]]$par
+                                              log(offering_duration) 
+             -20.67995              -22.73853               24.19850 
+             discprice 
+              14.71536 
+
+[[7]][[1]]$value
+[1] 919.023
+
+[[7]][[1]]$counts
+function gradient 
+      39       NA 
+
+[[7]][[1]]$convergence
+[1] 0
+
+[[7]][[1]]$message
+NULL
+
+
+[[7]][[2]]
+[[7]][[2]]$par
+                                              log(offering_duration) 
+             -6.203900              10.723863               5.268706 
+             discprice 
+              2.936836 
+
+[[7]][[2]]$value
+[1] 114.6516
+
+[[7]][[2]]$counts
+function gradient 
+      65       NA 
+
+[[7]][[2]]$convergence
+[1] 0
+
+[[7]][[2]]$message
+NULL
+
+
+[[7]][[3]]
+[[7]][[3]]$par
+                                              log(offering_duration) 
+             -3.031367              -1.374373              16.911476 
+             discprice 
+             -1.311173 
+
+[[7]][[3]]$value
+[1] 16593.59
+
+[[7]][[3]]$counts
+function gradient 
+      23       NA 
+
+[[7]][[3]]$convergence
+[1] 0
+
+[[7]][[3]]$message
+NULL
+
+
+[[7]][[4]]
+[[7]][[4]]$par
+                                              log(offering_duration) 
+             -7.840946            -135.240730              83.893616 
+             discprice 
+             38.269625 
+
+[[7]][[4]]$value
+[1] 1000.34
+
+[[7]][[4]]$counts
+function gradient 
+     203       NA 
+
+[[7]][[4]]$convergence
+[1] 0
+
+[[7]][[4]]$message
+NULL
+
+
+[[7]][[5]]
+[[7]][[5]]$par
+                                              log(offering_duration) 
+             -7.341818              -5.384042               4.146658 
+             discprice 
+             -6.148269 
+
+[[7]][[5]]$value
+[1] 505.5393
+
+[[7]][[5]]$counts
+function gradient 
+     141       NA 
+
+[[7]][[5]]$convergence
+[1] 0
+
+[[7]][[5]]$message
+NULL
+
+
+[[7]][[6]]
+[[7]][[6]]$par
+                                              log(offering_duration) 
+            -3.2079397              5.5013443              0.8112612 
+             discprice 
+            -0.7450836 
+
+[[7]][[6]]$value
+[1] 338.3715
+
+[[7]][[6]]$counts
+function gradient 
+     371       NA 
+
+[[7]][[6]]$convergence
+[1] 0
+
+[[7]][[6]]$message
+NULL
+
+
+[[7]][[7]]
+[[7]][[7]]$par
+                                              log(offering_duration) 
+            -20.626528              20.016393               9.793625 
+             discprice 
+              6.273190 
+
+[[7]][[7]]$value
+[1] 160.7308
+
+[[7]][[7]]$counts
+function gradient 
+      39       NA 
+
+[[7]][[7]]$convergence
+[1] 0
+
+[[7]][[7]]$message
+NULL
+
+
+[[7]][[8]]
+[[7]][[8]]$par
+                                              log(offering_duration) 
+             -7.926673               7.371744               5.566345 
+             discprice 
+             -1.019434 
+
+[[7]][[8]]$value
+[1] 445.7089
+
+[[7]][[8]]$counts
+function gradient 
+     167       NA 
+
+[[7]][[8]]$convergence
+[1] 0
+
+[[7]][[8]]$message
+NULL
+
+
+[[7]][[9]]
+NULL
+
+[[7]][[10]]
+[[7]][[10]]$par
+                                              log(offering_duration) 
+            -5.6397542             -0.3220809             13.2939288 
+             discprice 
+             6.3830466 
+
+[[7]][[10]]$value
+[1] 731.9899
+
+[[7]][[10]]$counts
+function gradient 
+      27       NA 
+
+[[7]][[10]]$convergence
+[1] 0
+
+[[7]][[10]]$message
+NULL
+
+
+[[7]][[11]]
+[[7]][[11]]$par
+                                              log(offering_duration) 
+            -13.274011               4.432070              13.538148 
+             discprice 
+             -8.214324 
+
+[[7]][[11]]$value
+[1] 69.0886
+
+[[7]][[11]]$counts
+function gradient 
+      33       NA 
+
+[[7]][[11]]$convergence
+[1] 0
+
+[[7]][[11]]$message
+NULL
+
+
+
+[[8]]
+[[8]][[1]]
+[[8]][[1]]$par
+                                              log(offering_duration) 
+            -14.718867              13.862008               6.731699 
+             discprice 
+              3.427453 
+
+[[8]][[1]]$value
+[1] 912.8964
+
+[[8]][[1]]$counts
+function gradient 
+     861       NA 
+
+[[8]][[1]]$convergence
+[1] 0
+
+[[8]][[1]]$message
+NULL
+
+
+[[8]][[2]]
+[[8]][[2]]$par
+                                              log(offering_duration) 
+             -6.174346               6.566347               5.459552 
+             discprice 
+              2.095607 
+
+[[8]][[2]]$value
+[1] 114.6518
+
+[[8]][[2]]$counts
+function gradient 
+      49       NA 
+
+[[8]][[2]]$convergence
+[1] 0
+
+[[8]][[2]]$message
+NULL
+
+
+[[8]][[3]]
+[[8]][[3]]$par
+                                              log(offering_duration) 
+             -6.843056             -53.789598              32.029466 
+             discprice 
+            101.531463 
+
+[[8]][[3]]$value
+[1] 5676.475
+
+[[8]][[3]]$counts
+function gradient 
+     355       NA 
+
+[[8]][[3]]$convergence
+[1] 0
+
+[[8]][[3]]$message
+NULL
+
+
+[[8]][[4]]
+[[8]][[4]]$par
+                                              log(offering_duration) 
+            -7.8135686             -6.4447426              4.3506306 
+             discprice 
+             0.8866913 
+
+[[8]][[4]]$value
+[1] 1000.369
+
+[[8]][[4]]$counts
+function gradient 
+      79       NA 
+
+[[8]][[4]]$convergence
+[1] 0
+
+[[8]][[4]]$message
+NULL
+
+
+[[8]][[5]]
+[[8]][[5]]$par
+                                              log(offering_duration) 
+             -7.336803              -5.333961               8.301386 
+             discprice 
+              2.347309 
+
+[[8]][[5]]$value
+[1] 505.5393
+
+[[8]][[5]]$counts
+function gradient 
+     129       NA 
+
+[[8]][[5]]$convergence
+[1] 0
+
+[[8]][[5]]$message
+NULL
+
+
+[[8]][[6]]
+[[8]][[6]]$par
+                                              log(offering_duration) 
+             -3.236068               4.520975               2.812899 
+             discprice 
+              0.106264 
+
+[[8]][[6]]$value
+[1] 339.0026
+
+[[8]][[6]]$counts
+function gradient 
+      81       NA 
+
+[[8]][[6]]$convergence
+[1] 0
+
+[[8]][[6]]$message
+NULL
+
+
+[[8]][[7]]
+[[8]][[7]]$par
+                                              log(offering_duration) 
+            -80.860986              80.093454               3.879382 
+             discprice 
+              6.695112 
+
+[[8]][[7]]$value
+[1] 157.8817
+
+[[8]][[7]]$counts
+function gradient 
+     371       NA 
+
+[[8]][[7]]$convergence
+[1] 0
+
+[[8]][[7]]$message
+NULL
+
+
+[[8]][[8]]
+[[8]][[8]]$par
+                                              log(offering_duration) 
+             -7.924445               7.376622               2.323738 
+             discprice 
+             -1.021750 
+
+[[8]][[8]]$value
+[1] 445.708
+
+[[8]][[8]]$counts
+function gradient 
+     135       NA 
+
+[[8]][[8]]$convergence
+[1] 0
+
+[[8]][[8]]$message
+NULL
+
+
+[[8]][[9]]
+NULL
+
+[[8]][[10]]
+[[8]][[10]]$par
+                                              log(offering_duration) 
+             -9.852303            -178.136924              31.856386 
+             discprice 
+            204.640086 
+
+[[8]][[10]]$value
+[1] 699.64
+
+[[8]][[10]]$counts
+function gradient 
+     543       NA 
+
+[[8]][[10]]$convergence
+[1] 0
+
+[[8]][[10]]$message
+NULL
+
+
+[[8]][[11]]
+[[8]][[11]]$par
+                                              log(offering_duration) 
+             0.7799409              9.1514860             10.3251684 
+             discprice 
+           -11.6608073 
+
+[[8]][[11]]$value
+[1] 524433.2
+
+[[8]][[11]]$counts
+function gradient 
+      27       NA 
+
+[[8]][[11]]$convergence
+[1] 0
+
+[[8]][[11]]$message
+NULL
+
+
+
+[[9]]
+[[9]][[1]]
+[[9]][[1]]$par
+                                              log(offering_duration) 
+             -7.230399               6.359718               2.783475 
+             discprice 
+              3.277604 
+
+[[9]][[1]]$value
+[1] 914.0197
+
+[[9]][[1]]$counts
+function gradient 
+     209       NA 
+
+[[9]][[1]]$convergence
+[1] 0
+
+[[9]][[1]]$message
+NULL
+
+
+[[9]][[2]]
+[[9]][[2]]$par
+                                              log(offering_duration) 
+             -6.195958               1.758427               3.616071 
+             discprice 
+             10.450723 
+
+[[9]][[2]]$value
+[1] 114.6517
+
+[[9]][[2]]$counts
+function gradient 
+     137       NA 
+
+[[9]][[2]]$convergence
+[1] 0
+
+[[9]][[2]]$message
+NULL
+
+
+[[9]][[3]]
+[[9]][[3]]$par
+                                              log(offering_duration) 
+             -4.627752               4.885881               4.669267 
+             discprice 
+              1.059108 
+
+[[9]][[3]]$value
+[1] 7433.22
+
+[[9]][[3]]$counts
+function gradient 
+      27       NA 
+
+[[9]][[3]]$convergence
+[1] 0
+
+[[9]][[3]]$message
+NULL
+
+
+[[9]][[4]]
+[[9]][[4]]$par
+                                              log(offering_duration) 
+            -7.8155465             -4.0357475              3.4284036 
+             discprice 
+            -0.6444913 
+
+[[9]][[4]]$value
+[1] 1000.369
+
+[[9]][[4]]$counts
+function gradient 
+      83       NA 
+
+[[9]][[4]]$convergence
+[1] 0
+
+[[9]][[4]]$message
+NULL
+
+
+[[9]][[5]]
+[[9]][[5]]$par
+                                              log(offering_duration) 
+             -9.272810              16.445119               6.823635 
+             discprice 
+              2.266981 
+
+[[9]][[5]]$value
+[1] 504.9868
+
+[[9]][[5]]$counts
+function gradient 
+      21       NA 
+
+[[9]][[5]]$convergence
+[1] 0
+
+[[9]][[5]]$message
+NULL
+
+
+[[9]][[6]]
+[[9]][[6]]$par
+                                              log(offering_duration) 
+            -3.2354788             14.7918146              3.6988637 
+             discprice 
+            -0.5697351 
+
+[[9]][[6]]$value
+[1] 339.0026
+
+[[9]][[6]]$counts
+function gradient 
+      77       NA 
+
+[[9]][[6]]$convergence
+[1] 0
+
+[[9]][[6]]$message
+NULL
+
+
+[[9]][[7]]
+[[9]][[7]]$par
+                                              log(offering_duration) 
+            -12.873652              14.196793               3.393971 
+             discprice 
+             26.019412 
+
+[[9]][[7]]$value
+[1] 157.6539
+
+[[9]][[7]]$counts
+function gradient 
+     749       NA 
+
+[[9]][[7]]$convergence
+[1] 0
+
+[[9]][[7]]$message
+NULL
+
+
+[[9]][[8]]
+[[9]][[8]]$par
+                                              log(offering_duration) 
+         -24.098916034           11.226540204           -7.168342945 
+             discprice 
+          -0.004694928 
+
+[[9]][[8]]$value
+[1] 446.6641
+
+[[9]][[8]]$counts
+function gradient 
+     655       NA 
+
+[[9]][[8]]$convergence
+[1] 0
+
+[[9]][[8]]$message
+NULL
+
+
+[[9]][[9]]
+NULL
+
+[[9]][[10]]
+[[9]][[10]]$par
+                                              log(offering_duration) 
+             -35.24085                3.87972               31.64841 
+             discprice 
+              -6.90183 
+
+[[9]][[10]]$value
+[1] 697.9109
+
+[[9]][[10]]$counts
+function gradient 
+     121       NA 
+
+[[9]][[10]]$convergence
+[1] 0
+
+[[9]][[10]]$message
+NULL
+
+
+[[9]][[11]]
+[[9]][[11]]$par
+                                              log(offering_duration) 
+             -4.832809              39.255923              76.777539 
+             discprice 
+           -179.876668 
+
+[[9]][[11]]$value
+[1] 66.10942
+
+[[9]][[11]]$counts
+function gradient 
+     231       NA 
+
+[[9]][[11]]$convergence
+[1] 0
+
+[[9]][[11]]$message
+NULL
+
+
+
+[[10]]
+[[10]][[1]]
+[[10]][[1]]$par
+                                              log(offering_duration) 
+             -8.126106               7.031906               3.709930 
+             discprice 
+              4.171511 
+
+[[10]][[1]]$value
+[1] 913.3562
+
+[[10]][[1]]$counts
+function gradient 
+     297       NA 
+
+[[10]][[1]]$convergence
+[1] 0
+
+[[10]][[1]]$message
+NULL
+
+
+[[10]][[2]]
+[[10]][[2]]$par
+                                              log(offering_duration) 
+             -5.736264              -3.172465              13.183917 
+             discprice 
+             -3.686645 
+
+[[10]][[2]]$value
+[1] 115.1379
+
+[[10]][[2]]$counts
+function gradient 
+     131       NA 
+
+[[10]][[2]]$convergence
+[1] 0
+
+[[10]][[2]]$message
+NULL
+
+
+[[10]][[3]]
+[[10]][[3]]$par
+                                              log(offering_duration) 
+             -30.29829                4.97771               17.84400 
+             discprice 
+             -13.09899 
+
+[[10]][[3]]$value
+[1] 5489.795
+
+[[10]][[3]]$counts
+function gradient 
+      93       NA 
+
+[[10]][[3]]$convergence
+[1] 0
+
+[[10]][[3]]$message
+NULL
+
+
+[[10]][[4]]
+[[10]][[4]]$par
+                                              log(offering_duration) 
+            -7.7885132              1.2344096              7.0991094 
+             discprice 
+            -0.8949426 
+
+[[10]][[4]]$value
+[1] 1000.368
+
+[[10]][[4]]$counts
+function gradient 
+      61       NA 
+
+[[10]][[4]]$convergence
+[1] 0
+
+[[10]][[4]]$message
+NULL
+
+
+[[10]][[5]]
+[[10]][[5]]$par
+                                              log(offering_duration) 
+             -7.831918              16.766009               8.195384 
+             discprice 
+             -1.785030 
+
+[[10]][[5]]$value
+[1] 505.0005
+
+[[10]][[5]]$counts
+function gradient 
+      15       NA 
+
+[[10]][[5]]$convergence
+[1] 0
+
+[[10]][[5]]$message
+NULL
+
+
+[[10]][[6]]
+[[10]][[6]]$par
+                                              log(offering_duration) 
+             -3.213316              15.170111               4.177571 
+             discprice 
+             -2.301471 
+
+[[10]][[6]]$value
+[1] 339.0048
+
+[[10]][[6]]$counts
+function gradient 
+      39       NA 
+
+[[10]][[6]]$convergence
+[1] 0
+
+[[10]][[6]]$message
+NULL
+
+
+[[10]][[7]]
+[[10]][[7]]$par
+                                              log(offering_duration) 
+             -6.455921             -17.876461               2.523365 
+             discprice 
+             26.680096 
+
+[[10]][[7]]$value
+[1] 158.4083
+
+[[10]][[7]]$counts
+function gradient 
+     569       NA 
+
+[[10]][[7]]$convergence
+[1] 0
+
+[[10]][[7]]$message
+NULL
+
+
+[[10]][[8]]
+[[10]][[8]]$par
+                                              log(offering_duration) 
+             -9.426623              -2.165912              15.205631 
+             discprice 
+             -4.811081 
+
+[[10]][[8]]$value
+[1] 452.0142
+
+[[10]][[8]]$counts
+function gradient 
+      53       NA 
+
+[[10]][[8]]$convergence
+[1] 0
+
+[[10]][[8]]$message
+NULL
+
+
+[[10]][[9]]
+NULL
+
+[[10]][[10]]
+[[10]][[10]]$par
+                                              log(offering_duration) 
+             -5.713128              -3.387015               6.570053 
+             discprice 
+              5.263826 
+
+[[10]][[10]]$value
+[1] 745.0296
+
+[[10]][[10]]$counts
+function gradient 
+      79       NA 
+
+[[10]][[10]]$convergence
+[1] 0
+
+[[10]][[10]]$message
+NULL
+
+
+[[10]][[11]]
+[[10]][[11]]$par
+                                              log(offering_duration) 
+            -4.6515006              4.2087803              7.5878215 
+             discprice 
+             0.4596824 
+
+[[10]][[11]]$value
+[1] 65.84366
+
+[[10]][[11]]$counts
+function gradient 
+     223       NA 
+
+[[10]][[11]]$convergence
+[1] 0
+
+[[10]][[11]]$message
+NULL
+
+
+
+[[11]]
+[[11]][[1]]
+[[11]][[1]]$par
+                                              log(offering_duration) 
+             -6.804841               5.920331               2.688926 
+             discprice 
+              3.169132 
+
+[[11]][[1]]$value
+[1] 914.4171
+
+[[11]][[1]]$counts
+function gradient 
+     271       NA 
+
+[[11]][[1]]$convergence
+[1] 0
+
+[[11]][[1]]$message
+NULL
+
+
+[[11]][[2]]
+[[11]][[2]]$par
+                                              log(offering_duration) 
+            -6.1977548             13.6760753              5.0823922 
+             discprice 
+             0.7599727 
+
+[[11]][[2]]$value
+[1] 114.6516
+
+[[11]][[2]]$counts
+function gradient 
+      69       NA 
+
+[[11]][[2]]$convergence
+[1] 0
+
+[[11]][[2]]$message
+NULL
+
+
+[[11]][[3]]
+[[11]][[3]]$par
+                                              log(offering_duration) 
+            -14.686630             -35.018061              38.135321 
+             discprice 
+             -1.195803 
+
+[[11]][[3]]$value
+[1] 5490.769
+
+[[11]][[3]]$counts
+function gradient 
+      35       NA 
+
+[[11]][[3]]$convergence
+[1] 0
+
+[[11]][[3]]$message
+NULL
+
+
+[[11]][[4]]
+[[11]][[4]]$par
+                                              log(offering_duration) 
+              -7.98594             -175.48250              191.62429 
+             discprice 
+             172.76476 
+
+[[11]][[4]]$value
+[1] 999.9336
+
+[[11]][[4]]$counts
+function gradient 
+     311       NA 
+
+[[11]][[4]]$convergence
+[1] 0
+
+[[11]][[4]]$message
+NULL
+
+
+[[11]][[5]]
+[[11]][[5]]$par
+                                              log(offering_duration) 
+             -7.340688             -11.588138              23.862369 
+             discprice 
+              5.236829 
+
+[[11]][[5]]$value
+[1] 505.5393
+
+[[11]][[5]]$counts
+function gradient 
+     117       NA 
+
+[[11]][[5]]$convergence
+[1] 0
+
+[[11]][[5]]$message
+NULL
+
+
+[[11]][[6]]
+[[11]][[6]]$par
+                                              log(offering_duration) 
+            -3.2355577             13.9762574              3.0211899 
+             discprice 
+            -0.9523007 
+
+[[11]][[6]]$value
+[1] 339.0026
+
+[[11]][[6]]$counts
+function gradient 
+      73       NA 
+
+[[11]][[6]]$convergence
+[1] 0
+
+[[11]][[6]]$message
+NULL
+
+
+[[11]][[7]]
+[[11]][[7]]$par
+                                              log(offering_duration) 
+             -6.456163             -23.764451               2.282287 
+             discprice 
+             27.334360 
+
+[[11]][[7]]$value
+[1] 158.4087
+
+[[11]][[7]]$counts
+function gradient 
+     477       NA 
+
+[[11]][[7]]$convergence
+[1] 0
+
+[[11]][[7]]$message
+NULL
+
+
+[[11]][[8]]
+[[11]][[8]]$par
+                                              log(offering_duration) 
+             -9.611788              -4.722382               9.644406 
+             discprice 
+              6.164827 
+
+[[11]][[8]]$value
+[1] 452.151
+
+[[11]][[8]]$counts
+function gradient 
+      39       NA 
+
+[[11]][[8]]$convergence
+[1] 0
+
+[[11]][[8]]$message
+NULL
+
+
+[[11]][[9]]
+NULL
+
+[[11]][[10]]
+[[11]][[10]]$par
+                                              log(offering_duration) 
+           -108.802467               3.874941              78.656290 
+             discprice 
+             -6.971272 
+
+[[11]][[10]]$value
+[1] 697.9104
+
+[[11]][[10]]$counts
+function gradient 
+     179       NA 
+
+[[11]][[10]]$convergence
+[1] 0
+
+[[11]][[10]]$message
+NULL
+
+
+[[11]][[11]]
+[[11]][[11]]$par
+                                              log(offering_duration) 
+            2.54012114             3.59055698             3.84047950 
+             discprice 
+           -0.05144613 
+
+[[11]][[11]]$value
+[1] 14590.38
+
+[[11]][[11]]$counts
+function gradient 
+      27       NA 
+
+[[11]][[11]]$convergence
+[1] 0
+
+[[11]][[11]]$message
+NULL
+
+
+
+[[12]]
+[[12]][[1]]
+[[12]][[1]]$par
+                                              log(offering_duration) 
+            -48.326543               4.825316              38.292365 
+             discprice 
+             -3.648081 
+
+[[12]][[1]]$value
+[1] 915.3518
+
+[[12]][[1]]$counts
+function gradient 
+     141       NA 
+
+[[12]][[1]]$convergence
+[1] 0
+
+[[12]][[1]]$message
+NULL
+
+
+[[12]][[2]]
+[[12]][[2]]$par
+                                              log(offering_duration) 
+            -6.1977860              9.4791215              3.2879984 
+             discprice 
+             0.6671498 
+
+[[12]][[2]]$value
+[1] 114.6516
+
+[[12]][[2]]$counts
+function gradient 
+      67       NA 
+
+[[12]][[2]]$convergence
+[1] 0
+
+[[12]][[2]]$message
+NULL
+
+
+[[12]][[3]]
+[[12]][[3]]$par
+                                              log(offering_duration) 
+             -7.112226            -205.931700              16.495499 
+             discprice 
+            121.819511 
+
+[[12]][[3]]$value
+[1] 5636.647
+
+[[12]][[3]]$counts
+function gradient 
+     637       NA 
+
+[[12]][[3]]$convergence
+[1] 0
+
+[[12]][[3]]$message
+NULL
+
+
+[[12]][[4]]
+[[12]][[4]]$par
+                                              log(offering_duration) 
+           -8.14656003             5.72068883            -4.51229625 
+             discprice 
+           -0.09543745 
+
+[[12]][[4]]$value
+[1] 996.6046
+
+[[12]][[4]]$counts
+function gradient 
+     323       NA 
+
+[[12]][[4]]$convergence
+[1] 0
+
+[[12]][[4]]$message
+NULL
+
+
+[[12]][[5]]
+[[12]][[5]]$par
+                                              log(offering_duration) 
+             -7.350150              -3.758154               5.257652 
+             discprice 
+              2.514737 
+
+[[12]][[5]]$value
+[1] 505.5394
+
+[[12]][[5]]$counts
+function gradient 
+      63       NA 
+
+[[12]][[5]]$convergence
+[1] 0
+
+[[12]][[5]]$message
+NULL
+
+
+[[12]][[6]]
+[[12]][[6]]$par
+                                              log(offering_duration) 
+            -3.2072456              5.5079644              0.8128471 
+             discprice 
+            -0.7459344 
+
+[[12]][[6]]$value
+[1] 338.3715
+
+[[12]][[6]]$counts
+function gradient 
+     251       NA 
+
+[[12]][[6]]$convergence
+[1] 0
+
+[[12]][[6]]$message
+NULL
+
+
+[[12]][[7]]
+[[12]][[7]]$par
+                                              log(offering_duration) 
+           -7.28814342             7.40535028            -2.77294033 
+             discprice 
+            0.07808025 
+
+[[12]][[7]]$value
+[1] 154.6904
+
+[[12]][[7]]$counts
+function gradient 
+     625       NA 
+
+[[12]][[7]]$convergence
+[1] 0
+
+[[12]][[7]]$message
+NULL
+
+
+[[12]][[8]]
+[[12]][[8]]$par
+                                              log(offering_duration) 
+            -11.065421             -12.696043              25.246601 
+             discprice 
+              3.674725 
+
+[[12]][[8]]$value
+[1] 452.223
+
+[[12]][[8]]$counts
+function gradient 
+      27       NA 
+
+[[12]][[8]]$convergence
+[1] 0
+
+[[12]][[8]]$message
+NULL
+
+
+[[12]][[9]]
+NULL
+
+[[12]][[10]]
+[[12]][[10]]$par
+                                              log(offering_duration) 
+             -6.400241             -17.330563               4.087612 
+             discprice 
+             25.333508 
+
+[[12]][[10]]$value
+[1] 716.4505
+
+[[12]][[10]]$counts
+function gradient 
+     493       NA 
+
+[[12]][[10]]$convergence
+[1] 0
+
+[[12]][[10]]$message
+NULL
+
+
+[[12]][[11]]
+[[12]][[11]]$par
+                                              log(offering_duration) 
+             -6.337879             -31.912863             144.308379 
+             discprice 
+             15.481513 
+
+[[12]][[11]]$value
+[1] 69.60446
+
+[[12]][[11]]$counts
+function gradient 
+     255       NA 
+
+[[12]][[11]]$convergence
+[1] 0
+
+[[12]][[11]]$message
+NULL
+
+
+
+[[13]]
+[[13]][[1]]
+[[13]][[1]]$par
+                                              log(offering_duration) 
+           -15.8769559              7.5339392             -5.4915383 
+             discprice 
+            -0.0109278 
+
+[[13]][[1]]$value
+[1] 906.6432
+
+[[13]][[1]]$counts
+function gradient 
+     611       NA 
+
+[[13]][[1]]$convergence
+[1] 0
+
+[[13]][[1]]$message
+NULL
+
+
+[[13]][[2]]
+[[13]][[2]]$par
+                                              log(offering_duration) 
+             -5.997770              23.197416               3.346934 
+             discprice 
+             -3.147067 
+
+[[13]][[2]]$value
+[1] 114.4482
+
+[[13]][[2]]$counts
+function gradient 
+     585       NA 
+
+[[13]][[2]]$convergence
+[1] 0
+
+[[13]][[2]]$message
+NULL
+
+
+[[13]][[3]]
+[[13]][[3]]$par
+                                              log(offering_duration) 
+             -43.76839              -78.46979              111.60750 
+             discprice 
+             -20.74902 
+
+[[13]][[3]]$value
+[1] 5490.743
+
+[[13]][[3]]$counts
+function gradient 
+      45       NA 
+
+[[13]][[3]]$convergence
+[1] 0
+
+[[13]][[3]]$message
+NULL
+
+
+[[13]][[4]]
+[[13]][[4]]$par
+                                              log(offering_duration) 
+             -7.862276            -204.169974             184.619791 
+             discprice 
+             80.315961 
+
+[[13]][[4]]$value
+[1] 1000.266
+
+[[13]][[4]]$counts
+function gradient 
+     381       NA 
+
+[[13]][[4]]$convergence
+[1] 0
+
+[[13]][[4]]$message
+NULL
+
+
+[[13]][[5]]
+[[13]][[5]]$par
+                                              log(offering_duration) 
+             -7.334803              -2.995066               2.360858 
+             discprice 
+              1.350205 
+
+[[13]][[5]]$value
+[1] 505.5395
+
+[[13]][[5]]$counts
+function gradient 
+      67       NA 
+
+[[13]][[5]]$convergence
+[1] 0
+
+[[13]][[5]]$message
+NULL
+
+
+[[13]][[6]]
+[[13]][[6]]$par
+                                              log(offering_duration) 
+            -3.2344231             14.3389524              4.3877208 
+             discprice 
+             0.4520543 
+
+[[13]][[6]]$value
+[1] 339.0026
+
+[[13]][[6]]$counts
+function gradient 
+      71       NA 
+
+[[13]][[6]]$convergence
+[1] 0
+
+[[13]][[6]]$message
+NULL
+
+
+[[13]][[7]]
+[[13]][[7]]$par
+                                              log(offering_duration) 
+             -6.614932              -3.903843              13.122100 
+             discprice 
+             -4.005416 
+
+[[13]][[7]]$value
+[1] 161.6555
+
+[[13]][[7]]$counts
+function gradient 
+     133       NA 
+
+[[13]][[7]]$convergence
+[1] 0
+
+[[13]][[7]]$message
+NULL
+
+
+[[13]][[8]]
+[[13]][[8]]$par
+                                              log(offering_duration) 
+             -9.485802              -5.743311               3.482349 
+             discprice 
+              1.615324 
+
+[[13]][[8]]$value
+[1] 452.0131
+
+[[13]][[8]]$counts
+function gradient 
+      65       NA 
+
+[[13]][[8]]$convergence
+[1] 0
+
+[[13]][[8]]$message
+NULL
+
+
+[[13]][[9]]
+NULL
+
+[[13]][[10]]
+[[13]][[10]]$par
+                                              log(offering_duration) 
+            -23.935985               3.873744              16.887863 
+             discprice 
+             -6.932900 
+
+[[13]][[10]]$value
+[1] 697.9104
+
+[[13]][[10]]$counts
+function gradient 
+     173       NA 
+
+[[13]][[10]]$convergence
+[1] 0
+
+[[13]][[10]]$message
+NULL
+
+
+[[13]][[11]]
+[[13]][[11]]$par
+                                              log(offering_duration) 
+            -4.6520622              4.2101718              4.9560516 
+             discprice 
+             0.4595645 
+
+[[13]][[11]]$value
+[1] 65.84366
+
+[[13]][[11]]$counts
+function gradient 
+     193       NA 
+
+[[13]][[11]]$convergence
+[1] 0
+
+[[13]][[11]]$message
+NULL
+
+
+
+[[14]]
+[[14]][[1]]
+[[14]][[1]]$par
+                                              log(offering_duration) 
+            -57.933864               4.827387              17.112152 
+             discprice 
+             -3.662761 
+
+[[14]][[1]]$value
+[1] 915.3519
+
+[[14]][[1]]$counts
+function gradient 
+     207       NA 
+
+[[14]][[1]]$convergence
+[1] 0
+
+[[14]][[1]]$message
+NULL
+
+
+[[14]][[2]]
+[[14]][[2]]$par
+                                              log(offering_duration) 
+             -5.736153               2.370765               4.661846 
+             discprice 
+             -5.426560 
+
+[[14]][[2]]$value
+[1] 115.1378
+
+[[14]][[2]]$counts
+function gradient 
+     155       NA 
+
+[[14]][[2]]$convergence
+[1] 0
+
+[[14]][[2]]$message
+NULL
+
+
+[[14]][[3]]
+[[14]][[3]]$par
+                                              log(offering_duration) 
+             -6.435503            -131.176772             709.780654 
+             discprice 
+             59.058898 
+
+[[14]][[3]]$value
+[1] 5867.725
+
+[[14]][[3]]$counts
+function gradient 
+     377       NA 
+
+[[14]][[3]]$convergence
+[1] 0
+
+[[14]][[3]]$message
+NULL
+
+
+[[14]][[4]]
+[[14]][[4]]$par
+                                              log(offering_duration) 
+             -7.839032            -142.491574              76.175318 
+             discprice 
+             49.626174 
+
+[[14]][[4]]$value
+[1] 1000.305
+
+[[14]][[4]]$counts
+function gradient 
+     385       NA 
+
+[[14]][[4]]$convergence
+[1] 0
+
+[[14]][[4]]$message
+NULL
+
+
+[[14]][[5]]
+[[14]][[5]]$par
+                                              log(offering_duration) 
+             -7.330130              -3.843212               5.020928 
+             discprice 
+              3.234437 
+
+[[14]][[5]]$value
+[1] 505.5394
+
+[[14]][[5]]$counts
+function gradient 
+      59       NA 
+
+[[14]][[5]]$convergence
+[1] 0
+
+[[14]][[5]]$message
+NULL
+
+
+[[14]][[6]]
+[[14]][[6]]$par
+                                              log(offering_duration) 
+            -3.2335581             -3.4932992              0.4598906 
+             discprice 
+             0.3976287 
+
+[[14]][[6]]$value
+[1] 339.0019
+
+[[14]][[6]]$counts
+function gradient 
+      69       NA 
+
+[[14]][[6]]$convergence
+[1] 0
+
+[[14]][[6]]$message
+NULL
+
+
+[[14]][[7]]
+[[14]][[7]]$par
+                                              log(offering_duration) 
+             -6.614317              -9.388215              15.824122 
+             discprice 
+              6.334278 
+
+[[14]][[7]]$value
+[1] 161.6555
+
+[[14]][[7]]$counts
+function gradient 
+     113       NA 
+
+[[14]][[7]]$convergence
+[1] 0
+
+[[14]][[7]]$message
+NULL
+
+
+[[14]][[8]]
+[[14]][[8]]$par
+                                              log(offering_duration) 
+             -7.756112               5.528739               4.795412 
+             discprice 
+              3.730263 
+
+[[14]][[8]]$value
+[1] 446.0812
+
+[[14]][[8]]$counts
+function gradient 
+     195       NA 
+
+[[14]][[8]]$convergence
+[1] 0
+
+[[14]][[8]]$message
+NULL
+
+
+[[14]][[9]]
+NULL
+
+[[14]][[10]]
+[[14]][[10]]$par
+                                              log(offering_duration) 
+             -9.690968            -180.098154             709.780382 
+             discprice 
+            207.000765 
+
+[[14]][[10]]$value
+[1] 699.706
+
+[[14]][[10]]$counts
+function gradient 
+     423       NA 
+
+[[14]][[10]]$convergence
+[1] 0
+
+[[14]][[10]]$message
+NULL
+
+
+[[14]][[11]]
+[[14]][[11]]$par
+                                              log(offering_duration) 
+              1.043985               3.061160               6.682587 
+             discprice 
+             -3.912296 
+
+[[14]][[11]]$value
+[1] 2068.263
+
+[[14]][[11]]$counts
+function gradient 
+      29       NA 
+
+[[14]][[11]]$convergence
+[1] 0
+
+[[14]][[11]]$message
+NULL
+
+
+
+[[15]]
+[[15]][[1]]
+[[15]][[1]]$par
+                                              log(offering_duration) 
+            -18.171239              -7.441257              18.221795 
+             discprice 
+              3.921049 
+
+[[15]][[1]]$value
+[1] 919.023
+
+[[15]][[1]]$counts
+function gradient 
+      85       NA 
+
+[[15]][[1]]$convergence
+[1] 0
+
+[[15]][[1]]$message
+NULL
+
+
+[[15]][[2]]
+[[15]][[2]]$par
+                                              log(offering_duration) 
+             -6.193963              10.164799               6.215609 
+             discprice 
+              3.836401 
+
+[[15]][[2]]$value
+[1] 114.6516
+
+[[15]][[2]]$counts
+function gradient 
+      69       NA 
+
+[[15]][[2]]$convergence
+[1] 0
+
+[[15]][[2]]$message
+NULL
+
+
+[[15]][[3]]
+[[15]][[3]]$par
+                                              log(offering_duration) 
+             -8.601335            -610.905894             218.332166 
+             discprice 
+            175.822557 
+
+[[15]][[3]]$value
+[1] 5516.87
+
+[[15]][[3]]$counts
+function gradient 
+     535       NA 
+
+[[15]][[3]]$convergence
+[1] 0
+
+[[15]][[3]]$message
+NULL
+
+
+[[15]][[4]]
+[[15]][[4]]$par
+                                              log(offering_duration) 
+             -7.852256               1.575975               8.667159 
+             discprice 
+             -2.421121 
+
+[[15]][[4]]$value
+[1] 1000.367
+
+[[15]][[4]]$counts
+function gradient 
+      57       NA 
+
+[[15]][[4]]$convergence
+[1] 0
+
+[[15]][[4]]$message
+NULL
+
+
+[[15]][[5]]
+[[15]][[5]]$par
+                                              log(offering_duration) 
+             -6.493265              12.490843               2.415578 
+             discprice 
+             -5.260280 
+
+[[15]][[5]]$value
+[1] 503.3741
+
+[[15]][[5]]$counts
+function gradient 
+     133       NA 
+
+[[15]][[5]]$convergence
+[1] 0
+
+[[15]][[5]]$message
+NULL
+
+
+[[15]][[6]]
+[[15]][[6]]$par
+                                              log(offering_duration) 
+             -3.234852              15.552763               4.878453 
+             discprice 
+             -1.094168 
+
+[[15]][[6]]$value
+[1] 339.0026
+
+[[15]][[6]]$counts
+function gradient 
+      65       NA 
+
+[[15]][[6]]$convergence
+[1] 0
+
+[[15]][[6]]$message
+NULL
+
+
+[[15]][[7]]
+[[15]][[7]]$par
+                                              log(offering_duration) 
+            -24.315607              24.656014               7.717225 
+             discprice 
+              9.148729 
+
+[[15]][[7]]$value
+[1] 160.7308
+
+[[15]][[7]]$counts
+function gradient 
+      31       NA 
+
+[[15]][[7]]$convergence
+[1] 0
+
+[[15]][[7]]$message
+NULL
+
+
+[[15]][[8]]
+[[15]][[8]]$par
+                                              log(offering_duration) 
+             -7.922430               7.379786               5.368990 
+             discprice 
+             -1.025588 
+
+[[15]][[8]]$value
+[1] 445.7089
+
+[[15]][[8]]$counts
+function gradient 
+     117       NA 
+
+[[15]][[8]]$convergence
+[1] 0
+
+[[15]][[8]]$message
+NULL
+
+
+[[15]][[9]]
+NULL
+
+[[15]][[10]]
+[[15]][[10]]$par
+                                              log(offering_duration) 
+         -32.944143238          -14.650649475           38.737619749 
+             discprice 
+           0.002875806 
+
+[[15]][[10]]$value
+[1] 700.3556
+
+[[15]][[10]]$counts
+function gradient 
+      57       NA 
+
+[[15]][[10]]$convergence
+[1] 0
+
+[[15]][[10]]$message
+NULL
+
+
+[[15]][[11]]
+[[15]][[11]]$par
+                                              log(offering_duration) 
+             -64.24531             -102.48257               26.73908 
+             discprice 
+              43.49735 
+
+[[15]][[11]]$value
+[1] 69.77449
+
+[[15]][[11]]$counts
+function gradient 
+     173       NA 
+
+[[15]][[11]]$convergence
+[1] 0
+
+[[15]][[11]]$message
+NULL
+
+
+
+[[16]]
+[[16]][[1]]
+[[16]][[1]]$par
+                                              log(offering_duration) 
+            -45.056743               4.819981              17.291385 
+             discprice 
+             -3.630752 
+
+[[16]][[1]]$value
+[1] 915.3518
+
+[[16]][[1]]$counts
+function gradient 
+     161       NA 
+
+[[16]][[1]]$convergence
+[1] 0
+
+[[16]][[1]]$message
+NULL
+
+
+[[16]][[2]]
+[[16]][[2]]$par
+                                              log(offering_duration) 
+             -6.199770               7.720083               4.562902 
+             discprice 
+              2.312126 
+
+[[16]][[2]]$value
+[1] 114.6516
+
+[[16]][[2]]$counts
+function gradient 
+      63       NA 
+
+[[16]][[2]]$convergence
+[1] 0
+
+[[16]][[2]]$message
+NULL
+
+
+[[16]][[3]]
+[[16]][[3]]$par
+                                              log(offering_duration) 
+             -2.018330               4.585949               3.201206 
+             discprice 
+              2.937053 
+
+[[16]][[3]]$value
+[1] 40000.45
+
+[[16]][[3]]$counts
+function gradient 
+      21       NA 
+
+[[16]][[3]]$convergence
+[1] 0
+
+[[16]][[3]]$message
+NULL
+
+
+[[16]][[4]]
+[[16]][[4]]$par
+                                              log(offering_duration) 
+             -7.879981             -99.034223              98.642810 
+             discprice 
+             44.668662 
+
+[[16]][[4]]$value
+[1] 1000.243
+
+[[16]][[4]]$counts
+function gradient 
+     213       NA 
+
+[[16]][[4]]$convergence
+[1] 0
+
+[[16]][[4]]$message
+NULL
+
+
+[[16]][[5]]
+[[16]][[5]]$par
+                                              log(offering_duration) 
+             -8.704328               9.049033               4.642847 
+             discprice 
+              2.431762 
+
+[[16]][[5]]$value
+[1] 504.9853
+
+[[16]][[5]]$counts
+function gradient 
+      61       NA 
+
+[[16]][[5]]$convergence
+[1] 0
+
+[[16]][[5]]$message
+NULL
+
+
+[[16]][[6]]
+[[16]][[6]]$par
+                                              log(offering_duration) 
+            -3.2356160              6.0101243              4.3560000 
+             discprice 
+             0.2264447 
+
+[[16]][[6]]$value
+[1] 339.0026
+
+[[16]][[6]]$counts
+function gradient 
+      73       NA 
+
+[[16]][[6]]$convergence
+[1] 0
+
+[[16]][[6]]$message
+NULL
+
+
+[[16]][[7]]
+[[16]][[7]]$par
+                                              log(offering_duration) 
+           -7.28863906             7.40507915            -2.77378383 
+             discprice 
+            0.07807946 
+
+[[16]][[7]]$value
+[1] 154.6904
+
+[[16]][[7]]$counts
+function gradient 
+     525       NA 
+
+[[16]][[7]]$convergence
+[1] 0
+
+[[16]][[7]]$message
+NULL
+
+
+[[16]][[8]]
+[[16]][[8]]$par
+                                              log(offering_duration) 
+            -7.8490945              7.4621365              0.9066419 
+             discprice 
+            -0.9844225 
+
+[[16]][[8]]$value
+[1] 445.4886
+
+[[16]][[8]]$counts
+function gradient 
+     393       NA 
+
+[[16]][[8]]$convergence
+[1] 0
+
+[[16]][[8]]$message
+NULL
+
+
+[[16]][[9]]
+NULL
+
+[[16]][[10]]
+[[16]][[10]]$par
+                                              log(offering_duration) 
+             -5.659966            -138.110897               3.820998 
+             discprice 
+             83.440009 
+
+[[16]][[10]]$value
+[1] 750.198
+
+[[16]][[10]]$counts
+function gradient 
+    5001       NA 
+
+[[16]][[10]]$convergence
+[1] 1
+
+[[16]][[10]]$message
+NULL
+
+
+[[16]][[11]]
+[[16]][[11]]$par
+                                              log(offering_duration) 
+           -0.03136471            11.36511080             8.75376884 
+             discprice 
+           -5.63822405 
+
+[[16]][[11]]$value
+[1] 201049835
+
+[[16]][[11]]$counts
+function gradient 
+      23       NA 
+
+[[16]][[11]]$convergence
+[1] 0
+
+[[16]][[11]]$message
+NULL
+
+
+
+[[17]]
+[[17]][[1]]
+[[17]][[1]]$par
+                                              log(offering_duration) 
+          -53.67950077             7.53418104            -5.46596336 
+             discprice 
+           -0.01096434 
+
+[[17]][[1]]$value
+[1] 906.6078
+
+[[17]][[1]]$counts
+function gradient 
+     587       NA 
+
+[[17]][[1]]$convergence
+[1] 0
+
+[[17]][[1]]$message
+NULL
+
+
+[[17]][[2]]
+[[17]][[2]]$par
+                                              log(offering_duration) 
+             -6.194574              11.534234               4.232841 
+             discprice 
+              6.732729 
+
+[[17]][[2]]$value
+[1] 114.6516
+
+[[17]][[2]]$counts
+function gradient 
+      57       NA 
+
+[[17]][[2]]$convergence
+[1] 0
+
+[[17]][[2]]$message
+NULL
+
+
+[[17]][[3]]
+[[17]][[3]]$par
+                                              log(offering_duration) 
+            -22.880919              -3.705116              46.660945 
+             discprice 
+            -64.960492 
+
+[[17]][[3]]$value
+[1] 5490.743
+
+[[17]][[3]]$counts
+function gradient 
+      59       NA 
+
+[[17]][[3]]$convergence
+[1] 0
+
+[[17]][[3]]$message
+NULL
+
+
+[[17]][[4]]
+[[17]][[4]]$par
+                                              log(offering_duration) 
+             -6.141351              -3.191377               1.471315 
+             discprice 
+              2.503037 
+
+[[17]][[4]]$value
+[1] 1010.759
+
+[[17]][[4]]$counts
+function gradient 
+     253       NA 
+
+[[17]][[4]]$convergence
+[1] 0
+
+[[17]][[4]]$message
+NULL
+
+
+[[17]][[5]]
+[[17]][[5]]$par
+                                              log(offering_duration) 
+             -7.357647              -5.319532               4.094347 
+             discprice 
+              2.242673 
+
+[[17]][[5]]$value
+[1] 505.5394
+
+[[17]][[5]]$counts
+function gradient 
+      51       NA 
+
+[[17]][[5]]$convergence
+[1] 0
+
+[[17]][[5]]$message
+NULL
+
+
+[[17]][[6]]
+[[17]][[6]]$par
+                                              log(offering_duration) 
+            -3.2070070              5.5012312              0.8087380 
+             discprice 
+            -0.7462184 
+
+[[17]][[6]]$value
+[1] 338.3716
+
+[[17]][[6]]$counts
+function gradient 
+     241       NA 
+
+[[17]][[6]]$convergence
+[1] 0
+
+[[17]][[6]]$message
+NULL
+
+
+[[17]][[7]]
+[[17]][[7]]$par
+                                              log(offering_duration) 
+             -6.610576              -3.828487               4.287785 
+             discprice 
+              4.893573 
+
+[[17]][[7]]$value
+[1] 161.6562
+
+[[17]][[7]]$counts
+function gradient 
+      67       NA 
+
+[[17]][[7]]$convergence
+[1] 0
+
+[[17]][[7]]$message
+NULL
+
+
+[[17]][[8]]
+[[17]][[8]]$par
+                                              log(offering_duration) 
+             -9.503796              -1.508811               4.862642 
+             discprice 
+              3.639535 
+
+[[17]][[8]]$value
+[1] 452.0112
+
+[[17]][[8]]$counts
+function gradient 
+      67       NA 
+
+[[17]][[8]]$convergence
+[1] 0
+
+[[17]][[8]]$message
+NULL
+
+
+[[17]][[9]]
+NULL
+
+[[17]][[10]]
+[[17]][[10]]$par
+                                              log(offering_duration) 
+             -4.092017              -8.159834              17.421579 
+             discprice 
+              0.783399 
+
+[[17]][[10]]$value
+[1] 939.4802
+
+[[17]][[10]]$counts
+function gradient 
+      25       NA 
+
+[[17]][[10]]$convergence
+[1] 0
+
+[[17]][[10]]$message
+NULL
+
+
+[[17]][[11]]
+[[17]][[11]]$par
+                                              log(offering_duration) 
+            -4.6275125              4.1806598              3.2650286 
+             discprice 
+             0.4518675 
+
+[[17]][[11]]$value
+[1] 65.85794
+
+[[17]][[11]]$counts
+function gradient 
+     175       NA 
+
+[[17]][[11]]$convergence
+[1] 0
+
+[[17]][[11]]$message
+NULL
+
+
+
+[[18]]
+[[18]][[1]]
+[[18]][[1]]$par
+                                              log(offering_duration) 
+          -31.58586151             7.53407071            -5.46483281 
+             discprice 
+           -0.01095367 
+
+[[18]][[1]]$value
+[1] 906.6078
+
+[[18]][[1]]$counts
+function gradient 
+     773       NA 
+
+[[18]][[1]]$convergence
+[1] 0
+
+[[18]][[1]]$message
+NULL
+
+
+[[18]][[2]]
+[[18]][[2]]$par
+                                              log(offering_duration) 
+             -5.685008             -11.555332               2.507435 
+             discprice 
+             11.438091 
+
+[[18]][[2]]$value
+[1] 113.9314
+
+[[18]][[2]]$counts
+function gradient 
+    2495       NA 
+
+[[18]][[2]]$convergence
+[1] 0
+
+[[18]][[2]]$message
+NULL
+
+
+[[18]][[3]]
+[[18]][[3]]$par
+                                              log(offering_duration) 
+              -8.57793             -602.35953              659.53586 
+             discprice 
+             174.68342 
+
+[[18]][[3]]$value
+[1] 5518.143
+
+[[18]][[3]]$counts
+function gradient 
+     627       NA 
+
+[[18]][[3]]$convergence
+[1] 0
+
+[[18]][[3]]$message
+NULL
+
+
+[[18]][[4]]
+[[18]][[4]]$par
+                                              log(offering_duration) 
+             -6.805915              -7.295583               3.086240 
+             discprice 
+              7.885919 
+
+[[18]][[4]]$value
+[1] 1002.787
+
+[[18]][[4]]$counts
+function gradient 
+     331       NA 
+
+[[18]][[4]]$convergence
+[1] 0
+
+[[18]][[4]]$message
+NULL
+
+
+[[18]][[5]]
+[[18]][[5]]$par
+                                              log(offering_duration) 
+             -7.345183             -10.719600               2.355454 
+             discprice 
+              2.701702 
+
+[[18]][[5]]$value
+[1] 505.5393
+
+[[18]][[5]]$counts
+function gradient 
+     179       NA 
+
+[[18]][[5]]$convergence
+[1] 0
+
+[[18]][[5]]$message
+NULL
+
+
+[[18]][[6]]
+[[18]][[6]]$par
+                                              log(offering_duration) 
+             -3.218967              23.963126               2.716228 
+             discprice 
+             -4.005203 
+
+[[18]][[6]]$value
+[1] 338.3672
+
+[[18]][[6]]$counts
+function gradient 
+     791       NA 
+
+[[18]][[6]]$convergence
+[1] 0
+
+[[18]][[6]]$message
+NULL
+
+
+[[18]][[7]]
+[[18]][[7]]$par
+                                              log(offering_duration) 
+             -6.057746              20.213038               6.969843 
+             discprice 
+              4.927346 
+
+[[18]][[7]]$value
+[1] 161.5563
+
+[[18]][[7]]$counts
+function gradient 
+      13       NA 
+
+[[18]][[7]]$convergence
+[1] 0
+
+[[18]][[7]]$message
+NULL
+
+
+[[18]][[8]]
+[[18]][[8]]$par
+                                              log(offering_duration) 
+            -9.6193365             -4.6983006             13.6254708 
+             discprice 
+            -0.8698106 
+
+[[18]][[8]]$value
+[1] 452.017
+
+[[18]][[8]]$counts
+function gradient 
+      37       NA 
+
+[[18]][[8]]$convergence
+[1] 0
+
+[[18]][[8]]$message
+NULL
+
+
+[[18]][[9]]
+NULL
+
+[[18]][[10]]
+[[18]][[10]]$par
+                                              log(offering_duration) 
+            -6.0171710             -0.4474105              5.5864917 
+             discprice 
+             6.8213310 
+
+[[18]][[10]]$value
+[1] 722.3575
+
+[[18]][[10]]$counts
+function gradient 
+     113       NA 
+
+[[18]][[10]]$convergence
+[1] 0
+
+[[18]][[10]]$message
+NULL
+
+
+[[18]][[11]]
+[[18]][[11]]$par
+                                              log(offering_duration) 
+             -7.333585              -2.887228               5.246742 
+             discprice 
+              1.560381 
+
+[[18]][[11]]$value
+[1] 71.27219
+
+[[18]][[11]]$counts
+function gradient 
+      49       NA 
+
+[[18]][[11]]$convergence
+[1] 0
+
+[[18]][[11]]$message
+NULL
+
+
+
+[[19]]
+[[19]][[1]]
+[[19]][[1]]$par
+                                              log(offering_duration) 
+          -16.72439289             7.53412617            -5.46749095 
+             discprice 
+           -0.01094792 
+
+[[19]][[1]]$value
+[1] 906.6212
+
+[[19]][[1]]$counts
+function gradient 
+     959       NA 
+
+[[19]][[1]]$convergence
+[1] 0
+
+[[19]][[1]]$message
+NULL
+
+
+[[19]][[2]]
+[[19]][[2]]$par
+                                              log(offering_duration) 
+           -5.73521121            -6.57285148             3.96609597 
+             discprice 
+           -0.07445859 
+
+[[19]][[2]]$value
+[1] 115.1379
+
+[[19]][[2]]$counts
+function gradient 
+     101       NA 
+
+[[19]][[2]]$convergence
+[1] 0
+
+[[19]][[2]]$message
+NULL
+
+
+[[19]][[3]]
+[[19]][[3]]$par
+                                              log(offering_duration) 
+             -22.15989             -137.62223              150.87434 
+             discprice 
+             -13.17237 
+
+[[19]][[3]]$value
+[1] 5490.743
+
+[[19]][[3]]$counts
+function gradient 
+      83       NA 
+
+[[19]][[3]]$convergence
+[1] 0
+
+[[19]][[3]]$message
+NULL
+
+
+[[19]][[4]]
+[[19]][[4]]$par
+                                              log(offering_duration) 
+             -7.975565            -178.454860              99.506548 
+             discprice 
+            175.261972 
+
+[[19]][[4]]$value
+[1] 999.9342
+
+[[19]][[4]]$counts
+function gradient 
+     389       NA 
+
+[[19]][[4]]$convergence
+[1] 0
+
+[[19]][[4]]$message
+NULL
+
+
+[[19]][[5]]
+[[19]][[5]]$par
+                                              log(offering_duration) 
+             -8.967652               8.862387               5.182455 
+             discprice 
+              4.646122 
+
+[[19]][[5]]$value
+[1] 504.9858
+
+[[19]][[5]]$counts
+function gradient 
+      61       NA 
+
+[[19]][[5]]$convergence
+[1] 0
+
+[[19]][[5]]$message
+NULL
+
+
+[[19]][[6]]
+[[19]][[6]]$par
+                                              log(offering_duration) 
+            -3.2354498              1.4760355              2.8080807 
+             discprice 
+             0.2364556 
+
+[[19]][[6]]$value
+[1] 339.0026
+
+[[19]][[6]]$counts
+function gradient 
+      61       NA 
+
+[[19]][[6]]$convergence
+[1] 0
+
+[[19]][[6]]$message
+NULL
+
+
+[[19]][[7]]
+[[19]][[7]]$par
+                                              log(offering_duration) 
+             -6.617932              -9.276499              17.690897 
+             discprice 
+              0.692412 
+
+[[19]][[7]]$value
+[1] 161.6555
+
+[[19]][[7]]$counts
+function gradient 
+     123       NA 
+
+[[19]][[7]]$convergence
+[1] 0
+
+[[19]][[7]]$message
+NULL
+
+
+[[19]][[8]]
+[[19]][[8]]$par
+                                              log(offering_duration) 
+           -7.94835002             7.38188721             0.07048276 
+             discprice 
+           -0.96100163 
+
+[[19]][[8]]$value
+[1] 445.0488
+
+[[19]][[8]]$counts
+function gradient 
+     233       NA 
+
+[[19]][[8]]$convergence
+[1] 0
+
+[[19]][[8]]$message
+NULL
+
+
+[[19]][[9]]
+NULL
+
+[[19]][[10]]
+[[19]][[10]]$par
+                                              log(offering_duration) 
+            -5.6677311             -0.8938339             12.6213227 
+             discprice 
+             5.7835113 
+
+[[19]][[10]]$value
+[1] 731.4028
+
+[[19]][[10]]$counts
+function gradient 
+      29       NA 
+
+[[19]][[10]]$convergence
+[1] 0
+
+[[19]][[10]]$message
+NULL
+
+
+[[19]][[11]]
+[[19]][[11]]$par
+                                              log(offering_duration) 
+             -6.624345              -8.311085              11.702258 
+             discprice 
+             -1.624551 
+
+[[19]][[11]]$value
+[1] 71.43834
+
+[[19]][[11]]$counts
+function gradient 
+      39       NA 
+
+[[19]][[11]]$convergence
+[1] 0
+
+[[19]][[11]]$message
+NULL
+
+
+
+[[20]]
+[[20]][[1]]
+[[20]][[1]]$par
+                                              log(offering_duration) 
+             -37.73034             -107.62011              113.41720 
+             discprice 
+             -12.37814 
+
+[[20]][[1]]$value
+[1] 919.023
+
+[[20]][[1]]$counts
+function gradient 
+      45       NA 
+
+[[20]][[1]]$convergence
+[1] 0
+
+[[20]][[1]]$message
+NULL
+
+
+[[20]][[2]]
+[[20]][[2]]$par
+                                              log(offering_duration) 
+             -5.734577              -3.921641               9.900808 
+             discprice 
+             -1.703657 
+
+[[20]][[2]]$value
+[1] 115.1379
+
+[[20]][[2]]$counts
+function gradient 
+     129       NA 
+
+[[20]][[2]]$convergence
+[1] 0
+
+[[20]][[2]]$message
+NULL
+
+
+[[20]][[3]]
+[[20]][[3]]$par
+                                              log(offering_duration) 
+             -12.05142             -289.03254              709.78147 
+             discprice 
+              46.65103 
+
+[[20]][[3]]$value
+[1] 5491.149
+
+[[20]][[3]]$counts
+function gradient 
+     511       NA 
+
+[[20]][[3]]$convergence
+[1] 0
+
+[[20]][[3]]$message
+NULL
+
+
+[[20]][[4]]
+[[20]][[4]]$par
+                                              log(offering_duration) 
+             -7.770041               4.181260               2.117477 
+             discprice 
+             -2.673574 
+
+[[20]][[4]]$value
+[1] 1000.341
+
+[[20]][[4]]$counts
+function gradient 
+     157       NA 
+
+[[20]][[4]]$convergence
+[1] 0
+
+[[20]][[4]]$message
+NULL
+
+
+[[20]][[5]]
+[[20]][[5]]$par
+                                              log(offering_duration) 
+             -7.339939              14.954736               4.173035 
+             discprice 
+             -7.247007 
+
+[[20]][[5]]$value
+[1] 505.0972
+
+[[20]][[5]]$counts
+function gradient 
+      67       NA 
+
+[[20]][[5]]$convergence
+[1] 0
+
+[[20]][[5]]$message
+NULL
+
+
+[[20]][[6]]
+[[20]][[6]]$par
+                                              log(offering_duration) 
+            -3.2075663              5.5012091              0.8123676 
+             discprice 
+            -0.7420851 
+
+[[20]][[6]]$value
+[1] 338.3715
+
+[[20]][[6]]$counts
+function gradient 
+     327       NA 
+
+[[20]][[6]]$convergence
+[1] 0
+
+[[20]][[6]]$message
+NULL
+
+
+[[20]][[7]]
+[[20]][[7]]$par
+                                              log(offering_duration) 
+             -5.904801               1.703264               1.651042 
+             discprice 
+              7.575699 
+
+[[20]][[7]]$value
+[1] 158.9754
+
+[[20]][[7]]$counts
+function gradient 
+     297       NA 
+
+[[20]][[7]]$convergence
+[1] 0
+
+[[20]][[7]]$message
+NULL
+
+
+[[20]][[8]]
+[[20]][[8]]$par
+                                              log(offering_duration) 
+             -4.731938               4.301709              14.599734 
+             discprice 
+             -2.884396 
+
+[[20]][[8]]$value
+[1] 768.9969
+
+[[20]][[8]]$counts
+function gradient 
+      23       NA 
+
+[[20]][[8]]$convergence
+[1] 0
+
+[[20]][[8]]$message
+NULL
+
+
+[[20]][[9]]
+NULL
+
+[[20]][[10]]
+[[20]][[10]]$par
+                                              log(offering_duration) 
+             -16.10884             -244.37786              709.37832 
+             discprice 
+             105.74951 
+
+[[20]][[10]]$value
+[1] 699.93
+
+[[20]][[10]]$counts
+function gradient 
+     521       NA 
+
+[[20]][[10]]$convergence
+[1] 0
+
+[[20]][[10]]$message
+NULL
+
+
+[[20]][[11]]
+[[20]][[11]]$par
+                                              log(offering_duration) 
+            -4.7031095              4.2451082              0.2085988 
+             discprice 
+             0.4694993 
+
+[[20]][[11]]$value
+[1] 65.56066
+
+[[20]][[11]]$counts
+function gradient 
+     513       NA 
+
+[[20]][[11]]$convergence
+[1] 0
+
+[[20]][[11]]$message
+NULL
+
+
+
+[[21]]
+[[21]][[1]]
+[[21]][[1]]$par
+                                              log(offering_duration) 
+             -6.768359               4.745686               3.238736 
+             discprice 
+              7.033034 
+
+[[21]][[1]]$value
+[1] 914.2185
+
+[[21]][[1]]$counts
+function gradient 
+     131       NA 
+
+[[21]][[1]]$convergence
+[1] 0
+
+[[21]][[1]]$message
+NULL
+
+
+[[21]][[2]]
+[[21]][[2]]$par
+                                              log(offering_duration) 
+             -5.798821              18.149979               3.009077 
+             discprice 
+             -6.148766 
+
+[[21]][[2]]$value
+[1] 114.424
+
+[[21]][[2]]$counts
+function gradient 
+     317       NA 
+
+[[21]][[2]]$convergence
+[1] 0
+
+[[21]][[2]]$message
+NULL
+
+
+[[21]][[3]]
+[[21]][[3]]$par
+                                              log(offering_duration) 
+             -7.763087            -458.150274              44.237054 
+             discprice 
+            152.604060 
+
+[[21]][[3]]$value
+[1] 5577.12
+
+[[21]][[3]]$counts
+function gradient 
+     717       NA 
+
+[[21]][[3]]$convergence
+[1] 0
+
+[[21]][[3]]$message
+NULL
+
+
+[[21]][[4]]
+[[21]][[4]]$par
+                                              log(offering_duration) 
+             -7.820174               2.240163               4.988745 
+             discprice 
+             -7.088291 
+
+[[21]][[4]]$value
+[1] 1000.368
+
+[[21]][[4]]$counts
+function gradient 
+     149       NA 
+
+[[21]][[4]]$convergence
+[1] 0
+
+[[21]][[4]]$message
+NULL
+
+
+[[21]][[5]]
+[[21]][[5]]$par
+                                              log(offering_duration) 
+             -6.656981              12.633351              13.836097 
+             discprice 
+             -2.364660 
+
+[[21]][[5]]$value
+[1] 505.3127
+
+[[21]][[5]]$counts
+function gradient 
+      21       NA 
+
+[[21]][[5]]$convergence
+[1] 0
+
+[[21]][[5]]$message
+NULL
+
+
+[[21]][[6]]
+[[21]][[6]]$par
+                                              log(offering_duration) 
+            -3.2075242              5.5121265              0.8143391 
+             discprice 
+            -0.7459032 
+
+[[21]][[6]]$value
+[1] 338.3715
+
+[[21]][[6]]$counts
+function gradient 
+     327       NA 
+
+[[21]][[6]]$convergence
+[1] 0
+
+[[21]][[6]]$message
+NULL
+
+
+[[21]][[7]]
+[[21]][[7]]$par
+                                              log(offering_duration) 
+             -6.460784             -21.342311               2.298326 
+             discprice 
+             26.058767 
+
+[[21]][[7]]$value
+[1] 158.4086
+
+[[21]][[7]]$counts
+function gradient 
+     777       NA 
+
+[[21]][[7]]$convergence
+[1] 0
+
+[[21]][[7]]$message
+NULL
+
+
+[[21]][[8]]
+[[21]][[8]]$par
+                                              log(offering_duration) 
+         -20.154848155           11.225646498          -13.362671276 
+             discprice 
+          -0.005232946 
+
+[[21]][[8]]$value
+[1] 447.5422
+
+[[21]][[8]]$counts
+function gradient 
+     425       NA 
+
+[[21]][[8]]$convergence
+[1] 0
+
+[[21]][[8]]$message
+NULL
+
+
+[[21]][[9]]
+NULL
+
+[[21]][[10]]
+[[21]][[10]]$par
+                                              log(offering_duration) 
+           -29.6577012            -16.4309363             30.4361923 
+             discprice 
+            -0.7338765 
+
+[[21]][[10]]$value
+[1] 700.3556
+
+[[21]][[10]]$counts
+function gradient 
+      63       NA 
+
+[[21]][[10]]$convergence
+[1] 0
+
+[[21]][[10]]$message
+NULL
+
+
+[[21]][[11]]
+[[21]][[11]]$par
+                                              log(offering_duration) 
+            -4.6517195              4.2103405              3.4615085 
+             discprice 
+             0.4591991 
+
+[[21]][[11]]$value
+[1] 65.84367
+
+[[21]][[11]]$counts
+function gradient 
+     263       NA 
+
+[[21]][[11]]$convergence
+[1] 0
+
+[[21]][[11]]$message
+NULL
+
+
+
+[[22]]
+[[22]][[1]]
+[[22]][[1]]$par
+                                              log(offering_duration) 
+             -27.24914             -102.04320               87.35096 
+             discprice 
+             -10.64651 
+
+[[22]][[1]]$value
+[1] 919.023
+
+[[22]][[1]]$counts
+function gradient 
+      45       NA 
+
+[[22]][[1]]$convergence
+[1] 0
+
+[[22]][[1]]$message
+NULL
+
+
+[[22]][[2]]
+[[22]][[2]]$par
+                                              log(offering_duration) 
+             -6.199824               6.948769               4.295063 
+             discprice 
+              5.640919 
+
+[[22]][[2]]$value
+[1] 114.6516
+
+[[22]][[2]]$counts
+function gradient 
+      67       NA 
+
+[[22]][[2]]$convergence
+[1] 0
+
+[[22]][[2]]$message
+NULL
+
+
+[[22]][[3]]
+[[22]][[3]]$par
+                                              log(offering_duration) 
+             -6.259130              -0.304090              11.801917 
+             discprice 
+              6.796954 
+
+[[22]][[3]]$value
+[1] 6358.165
+
+[[22]][[3]]$counts
+function gradient 
+      27       NA 
+
+[[22]][[3]]$convergence
+[1] 0
+
+[[22]][[3]]$message
+NULL
+
+
+[[22]][[4]]
+[[22]][[4]]$par
+                                              log(offering_duration) 
+            -6.8489556              0.4840058             12.5387513 
+             discprice 
+             5.7037810 
+
+[[22]][[4]]$value
+[1] 1002.071
+
+[[22]][[4]]$counts
+function gradient 
+     199       NA 
+
+[[22]][[4]]$convergence
+[1] 0
+
+[[22]][[4]]$message
+NULL
+
+
+[[22]][[5]]
+[[22]][[5]]$par
+                                              log(offering_duration) 
+             -7.432135              16.013144               2.772851 
+             discprice 
+             -8.342600 
+
+[[22]][[5]]$value
+[1] 503.4797
+
+[[22]][[5]]$counts
+function gradient 
+     137       NA 
+
+[[22]][[5]]$convergence
+[1] 0
+
+[[22]][[5]]$message
+NULL
+
+
+[[22]][[6]]
+[[22]][[6]]$par
+                                              log(offering_duration) 
+            -3.2341709             13.8170725              5.3138358 
+             discprice 
+             0.7132656 
+
+[[22]][[6]]$value
+[1] 339.0026
+
+[[22]][[6]]$counts
+function gradient 
+      77       NA 
+
+[[22]][[6]]$convergence
+[1] 0
+
+[[22]][[6]]$message
+NULL
+
+
+[[22]][[7]]
+[[22]][[7]]$par
+                                              log(offering_duration) 
+             -6.618058              -4.753906               1.679347 
+             discprice 
+             -7.942240 
+
+[[22]][[7]]$value
+[1] 161.6555
+
+[[22]][[7]]$counts
+function gradient 
+     139       NA 
+
+[[22]][[7]]$convergence
+[1] 0
+
+[[22]][[7]]$message
+NULL
+
+
+[[22]][[8]]
+[[22]][[8]]$par
+                                              log(offering_duration) 
+             -9.518475              -2.741643               5.880255 
+             discprice 
+              3.248384 
+
+[[22]][[8]]$value
+[1] 452.0114
+
+[[22]][[8]]$counts
+function gradient 
+      65       NA 
+
+[[22]][[8]]$convergence
+[1] 0
+
+[[22]][[8]]$message
+NULL
+
+
+[[22]][[9]]
+NULL
+
+[[22]][[10]]
+[[22]][[10]]$par
+                                              log(offering_duration) 
+             -5.366426              -1.876694              12.372252 
+             discprice 
+              4.354161 
+
+[[22]][[10]]$value
+[1] 756.9218
+
+[[22]][[10]]$counts
+function gradient 
+      29       NA 
+
+[[22]][[10]]$convergence
+[1] 0
+
+[[22]][[10]]$message
+NULL
+
+
+[[22]][[11]]
+[[22]][[11]]$par
+                                              log(offering_duration) 
+             -4.832303              56.831361             185.072247 
+             discprice 
+           -270.226550 
+
+[[22]][[11]]$value
+[1] 66.10925
+
+[[22]][[11]]$counts
+function gradient 
+     295       NA 
+
+[[22]][[11]]$convergence
+[1] 0
+
+[[22]][[11]]$message
+NULL
+
+
+
+[[23]]
+[[23]][[1]]
+[[23]][[1]]$par
+                                              log(offering_duration) 
+          -11.81237692             6.15842640            -4.00698268 
+             discprice 
+           -0.04530992 
+
+[[23]][[1]]$value
+[1] 906.7761
+
+[[23]][[1]]$counts
+function gradient 
+     443       NA 
+
+[[23]][[1]]$convergence
+[1] 0
+
+[[23]][[1]]$message
+NULL
+
+
+[[23]][[2]]
+[[23]][[2]]$par
+                                              log(offering_duration) 
+             -6.121510              12.056918               7.013617 
+             discprice 
+             -2.789338 
+
+[[23]][[2]]$value
+[1] 114.6698
+
+[[23]][[2]]$counts
+function gradient 
+      43       NA 
+
+[[23]][[2]]$convergence
+[1] 0
+
+[[23]][[2]]$message
+NULL
+
+
+[[23]][[3]]
+[[23]][[3]]$par
+                                              log(offering_duration) 
+           -25.8878505             -7.4328255             20.2929998 
+             discprice 
+            -0.9421457 
+
+[[23]][[3]]$value
+[1] 5490.743
+
+[[23]][[3]]$counts
+function gradient 
+      63       NA 
+
+[[23]][[3]]$convergence
+[1] 0
+
+[[23]][[3]]$message
+NULL
+
+
+[[23]][[4]]
+[[23]][[4]]$par
+                                              log(offering_duration) 
+            -8.1140897             -8.3425006             14.6061548 
+             discprice 
+            -0.2830506 
+
+[[23]][[4]]$value
+[1] 1000.424
+
+[[23]][[4]]$counts
+function gradient 
+      31       NA 
+
+[[23]][[4]]$convergence
+[1] 0
+
+[[23]][[4]]$message
+NULL
+
+
+[[23]][[5]]
+[[23]][[5]]$par
+                                              log(offering_duration) 
+             -7.331033              -2.372018               7.256364 
+             discprice 
+            -13.603892 
+
+[[23]][[5]]$value
+[1] 505.5393
+
+[[23]][[5]]$counts
+function gradient 
+     133       NA 
+
+[[23]][[5]]$convergence
+[1] 0
+
+[[23]][[5]]$message
+NULL
+
+
+[[23]][[6]]
+[[23]][[6]]$par
+                                              log(offering_duration) 
+            -3.2358457              5.2334975              2.6656040 
+             discprice 
+             0.0465585 
+
+[[23]][[6]]$value
+[1] 339.0026
+
+[[23]][[6]]$counts
+function gradient 
+      79       NA 
+
+[[23]][[6]]$convergence
+[1] 0
+
+[[23]][[6]]$message
+NULL
+
+
+[[23]][[7]]
+[[23]][[7]]$par
+                                              log(offering_duration) 
+             -6.615991              -5.077671               1.917242 
+             discprice 
+              2.989693 
+
+[[23]][[7]]$value
+[1] 161.6556
+
+[[23]][[7]]$counts
+function gradient 
+      73       NA 
+
+[[23]][[7]]$convergence
+[1] 0
+
+[[23]][[7]]$message
+NULL
+
+
+[[23]][[8]]
+[[23]][[8]]$par
+                                              log(offering_duration) 
+             -9.516408              -5.731080               2.871634 
+             discprice 
+              2.829609 
+
+[[23]][[8]]$value
+[1] 452.0132
+
+[[23]][[8]]$counts
+function gradient 
+      59       NA 
+
+[[23]][[8]]$convergence
+[1] 0
+
+[[23]][[8]]$message
+NULL
+
+
+[[23]][[9]]
+NULL
+
+[[23]][[10]]
+[[23]][[10]]$par
+                                              log(offering_duration) 
+            -57.124000               3.875759              41.466377 
+             discprice 
+             -6.959385 
+
+[[23]][[10]]$value
+[1] 697.9104
+
+[[23]][[10]]$counts
+function gradient 
+     181       NA 
+
+[[23]][[10]]$convergence
+[1] 0
+
+[[23]][[10]]$message
+NULL
+
+
+[[23]][[11]]
+[[23]][[11]]$par
+                                              log(offering_duration) 
+              1.014742               7.910266               7.626606 
+             discprice 
+             -4.141903 
+
+[[23]][[11]]$value
+[1] 1030410
+
+[[23]][[11]]$counts
+function gradient 
+      23       NA 
+
+[[23]][[11]]$convergence
+[1] 0
+
+[[23]][[11]]$message
+NULL
+
+
+
+[[24]]
+[[24]][[1]]
+[[24]][[1]]$par
+                                              log(offering_duration) 
+            -12.385367              11.518695               7.632452 
+             discprice 
+              3.460218 
+
+[[24]][[1]]$value
+[1] 912.9066
+
+[[24]][[1]]$counts
+function gradient 
+     591       NA 
+
+[[24]][[1]]$convergence
+[1] 0
+
+[[24]][[1]]$message
+NULL
+
+
+[[24]][[2]]
+[[24]][[2]]$par
+                                              log(offering_duration) 
+           -6.19251105            11.68452085             5.46937443 
+             discprice 
+            0.08961813 
+
+[[24]][[2]]$value
+[1] 114.6516
+
+[[24]][[2]]$counts
+function gradient 
+      61       NA 
+
+[[24]][[2]]$convergence
+[1] 0
+
+[[24]][[2]]$message
+NULL
+
+
+[[24]][[3]]
+[[24]][[3]]$par
+                                              log(offering_duration) 
+           -172.635597               4.979702              98.095198 
+             discprice 
+            -13.122212 
+
+[[24]][[3]]$value
+[1] 5489.795
+
+[[24]][[3]]$counts
+function gradient 
+     165       NA 
+
+[[24]][[3]]$convergence
+[1] 0
+
+[[24]][[3]]$message
+NULL
+
+
+[[24]][[4]]
+[[24]][[4]]$par
+                                              log(offering_duration) 
+             -7.143902              -5.053609               2.414488 
+             discprice 
+              4.980875 
+
+[[24]][[4]]$value
+[1] 1010.109
+
+[[24]][[4]]$counts
+function gradient 
+     533       NA 
+
+[[24]][[4]]$convergence
+[1] 0
+
+[[24]][[4]]$message
+NULL
+
+
+[[24]][[5]]
+[[24]][[5]]$par
+                                              log(offering_duration) 
+           -7.92446147             6.08862218            -3.08852786 
+             discprice 
+           -0.07591275 
+
+[[24]][[5]]$value
+[1] 500.133
+
+[[24]][[5]]$counts
+function gradient 
+     329       NA 
+
+[[24]][[5]]$convergence
+[1] 0
+
+[[24]][[5]]$message
+NULL
+
+
+[[24]][[6]]
+[[24]][[6]]$par
+                                              log(offering_duration) 
+           -3.23533599            -3.15711235             3.03948706 
+             discprice 
+           -0.05298011 
+
+[[24]][[6]]$value
+[1] 339.0026
+
+[[24]][[6]]$counts
+function gradient 
+      73       NA 
+
+[[24]][[6]]$convergence
+[1] 0
+
+[[24]][[6]]$message
+NULL
+
+
+[[24]][[7]]
+[[24]][[7]]$par
+                                              log(offering_duration) 
+             -6.608445              -2.746700               5.862250 
+             discprice 
+              2.352257 
+
+[[24]][[7]]$value
+[1] 161.6562
+
+[[24]][[7]]$counts
+function gradient 
+      73       NA 
+
+[[24]][[7]]$convergence
+[1] 0
+
+[[24]][[7]]$message
+NULL
+
+
+[[24]][[8]]
+[[24]][[8]]$par
+                                              log(offering_duration) 
+             -9.504410              -6.421142               4.965321 
+             discprice 
+              1.890981 
+
+[[24]][[8]]$value
+[1] 452.0131
+
+[[24]][[8]]$counts
+function gradient 
+      53       NA 
+
+[[24]][[8]]$convergence
+[1] 0
+
+[[24]][[8]]$message
+NULL
+
+
+[[24]][[9]]
+NULL
+
+[[24]][[10]]
+[[24]][[10]]$par
+                                              log(offering_duration) 
+            -33.641491               3.874197              26.410151 
+             discprice 
+             -6.923245 
+
+[[24]][[10]]$value
+[1] 697.9104
+
+[[24]][[10]]$counts
+function gradient 
+     139       NA 
+
+[[24]][[10]]$convergence
+[1] 0
+
+[[24]][[10]]$message
+NULL
+
+
+[[24]][[11]]
+[[24]][[11]]$par
+                                              log(offering_duration) 
+              3.829109               8.533067               6.369206 
+             discprice 
+             -3.455259 
+
+[[24]][[11]]$value
+[1] 77674402
+
+[[24]][[11]]$counts
+function gradient 
+      23       NA 
+
+[[24]][[11]]$convergence
+[1] 0
+
+[[24]][[11]]$message
+NULL
+
+
+
+[[25]]
+[[25]][[1]]
+[[25]][[1]]$par
+                                              log(offering_duration) 
+             -45.52417              -29.62963              237.41992 
+             discprice 
+             -44.04516 
+
+[[25]][[1]]$value
+[1] 919.023
+
+[[25]][[1]]$counts
+function gradient 
+      81       NA 
+
+[[25]][[1]]$convergence
+[1] 0
+
+[[25]][[1]]$message
+NULL
+
+
+[[25]][[2]]
+[[25]][[2]]$par
+                                              log(offering_duration) 
+             -6.200761              12.671576               5.213376 
+             discprice 
+              4.542836 
+
+[[25]][[2]]$value
+[1] 114.6516
+
+[[25]][[2]]$counts
+function gradient 
+      71       NA 
+
+[[25]][[2]]$convergence
+[1] 0
+
+[[25]][[2]]$message
+NULL
+
+
+[[25]][[3]]
+[[25]][[3]]$par
+                                              log(offering_duration) 
+            -23.652433               4.979383              17.023114 
+             discprice 
+            -13.258233 
+
+[[25]][[3]]$value
+[1] 5489.795
+
+[[25]][[3]]$counts
+function gradient 
+     163       NA 
+
+[[25]][[3]]$convergence
+[1] 0
+
+[[25]][[3]]$message
+NULL
+
+
+[[25]][[4]]
+[[25]][[4]]$par
+                                              log(offering_duration) 
+           -7.81693607            -5.79431281             2.52561759 
+             discprice 
+           -0.04617741 
+
+[[25]][[4]]$value
+[1] 1000.369
+
+[[25]][[4]]$counts
+function gradient 
+     103       NA 
+
+[[25]][[4]]$convergence
+[1] 0
+
+[[25]][[4]]$message
+NULL
+
+
+[[25]][[5]]
+[[25]][[5]]$par
+                                              log(offering_duration) 
+             -6.841083              18.425882               2.989074 
+             discprice 
+             -5.502517 
+
+[[25]][[5]]$value
+[1] 503.2782
+
+[[25]][[5]]$counts
+function gradient 
+     295       NA 
+
+[[25]][[5]]$convergence
+[1] 0
+
+[[25]][[5]]$message
+NULL
+
+
+[[25]][[6]]
+[[25]][[6]]$par
+                                              log(offering_duration) 
+            -3.2344289             12.2170618              3.8781737 
+             discprice 
+             0.2009301 
+
+[[25]][[6]]$value
+[1] 339.0026
+
+[[25]][[6]]$counts
+function gradient 
+      75       NA 
+
+[[25]][[6]]$convergence
+[1] 0
+
+[[25]][[6]]$message
+NULL
+
+
+[[25]][[7]]
+[[25]][[7]]$par
+                                              log(offering_duration) 
+              -6.85447              -17.99300                1.38425 
+             discprice 
+              17.69902 
+
+[[25]][[7]]$value
+[1] 158.5307
+
+[[25]][[7]]$counts
+function gradient 
+     405       NA 
+
+[[25]][[7]]$convergence
+[1] 0
+
+[[25]][[7]]$message
+NULL
+
+
+[[25]][[8]]
+[[25]][[8]]$par
+                                              log(offering_duration) 
+           -7.94483844             7.38264066             0.07757138 
+             discprice 
+           -0.95932052 
+
+[[25]][[8]]$value
+[1] 445.0487
+
+[[25]][[8]]$counts
+function gradient 
+     369       NA 
+
+[[25]][[8]]$convergence
+[1] 0
+
+[[25]][[8]]$message
+NULL
+
+
+[[25]][[9]]
+NULL
+
+[[25]][[10]]
+[[25]][[10]]$par
+                                              log(offering_duration) 
+             -33.07474             -120.99086              105.38071 
+             discprice 
+             -14.73657 
+
+[[25]][[10]]$value
+[1] 700.3556
+
+[[25]][[10]]$counts
+function gradient 
+      43       NA 
+
+[[25]][[10]]$convergence
+[1] 0
+
+[[25]][[10]]$message
+NULL
+
+
+[[25]][[11]]
+[[25]][[11]]$par
+                                              log(offering_duration) 
+              -4.83479               48.20662              706.34982 
+             discprice 
+            -225.86767 
+
+[[25]][[11]]$value
+[1] 66.10929
+
+[[25]][[11]]$counts
+function gradient 
+     347       NA 
+
+[[25]][[11]]$convergence
+[1] 0
+
+[[25]][[11]]$message
+NULL
+
+
+
+[[26]]
+[[26]][[1]]
+[[26]][[1]]$par
+                                              log(offering_duration) 
+             -7.096413               6.729712              15.778566 
+             discprice 
+             -8.478416 
+
+[[26]][[1]]$value
+[1] 914.799
+
+[[26]][[1]]$counts
+function gradient 
+     283       NA 
+
+[[26]][[1]]$convergence
+[1] 0
+
+[[26]][[1]]$message
+NULL
+
+
+[[26]][[2]]
+[[26]][[2]]$par
+                                              log(offering_duration) 
+             -6.044048            -103.690979              78.765689 
+             discprice 
+            165.360592 
+
+[[26]][[2]]$value
+[1] 114.784
+
+[[26]][[2]]$counts
+function gradient 
+     227       NA 
+
+[[26]][[2]]$convergence
+[1] 0
+
+[[26]][[2]]$message
+NULL
+
+
+[[26]][[3]]
+[[26]][[3]]$par
+                                              log(offering_duration) 
+             -6.403513            -175.646406              40.741733 
+             discprice 
+            117.780797 
+
+[[26]][[3]]$value
+[1] 5815.581
+
+[[26]][[3]]$counts
+function gradient 
+     619       NA 
+
+[[26]][[3]]$convergence
+[1] 0
+
+[[26]][[3]]$message
+NULL
+
+
+[[26]][[4]]
+[[26]][[4]]$par
+                                              log(offering_duration) 
+             -7.767757               4.174692               4.617422 
+             discprice 
+             -2.612158 
+
+[[26]][[4]]$value
+[1] 1000.341
+
+[[26]][[4]]$counts
+function gradient 
+     175       NA 
+
+[[26]][[4]]$convergence
+[1] 0
+
+[[26]][[4]]$message
+NULL
+
+
+[[26]][[5]]
+[[26]][[5]]$par
+                                              log(offering_duration) 
+             -7.343633              -3.261629               2.073710 
+             discprice 
+              1.122595 
+
+[[26]][[5]]$value
+[1] 505.5394
+
+[[26]][[5]]$counts
+function gradient 
+      65       NA 
+
+[[26]][[5]]$convergence
+[1] 0
+
+[[26]][[5]]$message
+NULL
+
+
+[[26]][[6]]
+[[26]][[6]]$par
+                                              log(offering_duration) 
+             -3.255437               9.876872               4.383980 
+             discprice 
+             -1.378220 
+
+[[26]][[6]]$value
+[1] 339.0045
+
+[[26]][[6]]$counts
+function gradient 
+      47       NA 
+
+[[26]][[6]]$convergence
+[1] 0
+
+[[26]][[6]]$message
+NULL
+
+
+[[26]][[7]]
+[[26]][[7]]$par
+                                              log(offering_duration) 
+            -17.777075              18.456850               9.455173 
+             discprice 
+              1.672374 
+
+[[26]][[7]]$value
+[1] 160.7308
+
+[[26]][[7]]$counts
+function gradient 
+      37       NA 
+
+[[26]][[7]]$convergence
+[1] 0
+
+[[26]][[7]]$message
+NULL
+
+
+[[26]][[8]]
+[[26]][[8]]$par
+                                              log(offering_duration) 
+           -7.94481681             7.38520214             0.07194302 
+             discprice 
+           -0.96543231 
+
+[[26]][[8]]$value
+[1] 445.0487
+
+[[26]][[8]]$counts
+function gradient 
+     353       NA 
+
+[[26]][[8]]$convergence
+[1] 0
+
+[[26]][[8]]$message
+NULL
+
+
+[[26]][[9]]
+NULL
+
+[[26]][[10]]
+[[26]][[10]]$par
+                                              log(offering_duration) 
+             -9.933166            -168.142956             139.607649 
+             discprice 
+            206.251271 
+
+[[26]][[10]]$value
+[1] 699.5818
+
+[[26]][[10]]$counts
+function gradient 
+     499       NA 
+
+[[26]][[10]]$convergence
+[1] 0
+
+[[26]][[10]]$message
+NULL
+
+
+[[26]][[11]]
+[[26]][[11]]$par
+                                              log(offering_duration) 
+             0.4546469              4.2851633              7.9038319 
+             discprice 
+            -9.0226236 
+
+[[26]][[11]]$value
+[1] 1193.559
+
+[[26]][[11]]$counts
+function gradient 
+      35       NA 
+
+[[26]][[11]]$convergence
+[1] 0
+
+[[26]][[11]]$message
+NULL
+
+
+
+[[27]]
+[[27]][[1]]
+[[27]][[1]]$par
+                                              log(offering_duration) 
+             -38.68558              -60.13175               27.46442 
+             discprice 
+              30.50984 
+
+[[27]][[1]]$value
+[1] 919.023
+
+[[27]][[1]]$counts
+function gradient 
+      45       NA 
+
+[[27]][[1]]$convergence
+[1] 0
+
+[[27]][[1]]$message
+NULL
+
+
+[[27]][[2]]
+[[27]][[2]]$par
+                                              log(offering_duration) 
+             -6.190383               5.533810               4.356579 
+             discprice 
+              4.909072 
+
+[[27]][[2]]$value
+[1] 114.6516
+
+[[27]][[2]]$counts
+function gradient 
+      57       NA 
+
+[[27]][[2]]$convergence
+[1] 0
+
+[[27]][[2]]$message
+NULL
+
+
+[[27]][[3]]
+[[27]][[3]]$par
+                                              log(offering_duration) 
+            -20.609142              -4.442340              13.296557 
+             discprice 
+             -4.204545 
+
+[[27]][[3]]$value
+[1] 5490.743
+
+[[27]][[3]]$counts
+function gradient 
+      81       NA 
+
+[[27]][[3]]$convergence
+[1] 0
+
+[[27]][[3]]$message
+NULL
+
+
+[[27]][[4]]
+[[27]][[4]]$par
+                                              log(offering_duration) 
+            -7.7895774             -2.0882044              9.2266187 
+             discprice 
+             0.1268105 
+
+[[27]][[4]]$value
+[1] 1000.37
+
+[[27]][[4]]$counts
+function gradient 
+      67       NA 
+
+[[27]][[4]]$convergence
+[1] 0
+
+[[27]][[4]]$message
+NULL
+
+
+[[27]][[5]]
+[[27]][[5]]$par
+                                              log(offering_duration) 
+            -7.3250357             -0.6364874              3.7184355 
+             discprice 
+             1.6548861 
+
+[[27]][[5]]$value
+[1] 505.5411
+
+[[27]][[5]]$counts
+function gradient 
+      83       NA 
+
+[[27]][[5]]$convergence
+[1] 0
+
+[[27]][[5]]$message
+NULL
+
+
+[[27]][[6]]
+[[27]][[6]]$par
+                                              log(offering_duration) 
+            -3.2344950             -3.8103312              3.3473460 
+             discprice 
+             0.4776485 
+
+[[27]][[6]]$value
+[1] 339.0026
+
+[[27]][[6]]$counts
+function gradient 
+      69       NA 
+
+[[27]][[6]]$convergence
+[1] 0
+
+[[27]][[6]]$message
+NULL
+
+
+[[27]][[7]]
+[[27]][[7]]$par
+                                              log(offering_duration) 
+             -6.617920             -12.724961               3.636591 
+             discprice 
+              8.131457 
+
+[[27]][[7]]$value
+[1] 161.6555
+
+[[27]][[7]]$counts
+function gradient 
+     141       NA 
+
+[[27]][[7]]$convergence
+[1] 0
+
+[[27]][[7]]$message
+NULL
+
+
+[[27]][[8]]
+[[27]][[8]]$par
+                                              log(offering_duration) 
+             -7.922897               7.382837               9.754390 
+             discprice 
+             -1.025772 
+
+[[27]][[8]]$value
+[1] 445.7091
+
+[[27]][[8]]$counts
+function gradient 
+     139       NA 
+
+[[27]][[8]]$convergence
+[1] 0
+
+[[27]][[8]]$message
+NULL
+
+
+[[27]][[9]]
+NULL
+
+[[27]][[10]]
+[[27]][[10]]$par
+                                              log(offering_duration) 
+             -10.81607             -536.35944              377.86415 
+             discprice 
+             292.92222 
+
+[[27]][[10]]$value
+[1] 699.8669
+
+[[27]][[10]]$counts
+function gradient 
+     269       NA 
+
+[[27]][[10]]$convergence
+[1] 0
+
+[[27]][[10]]$message
+NULL
+
+
+[[27]][[11]]
+[[27]][[11]]$par
+                                              log(offering_duration) 
+           -1.68708993             2.38921541             3.74226276 
+             discprice 
+           -0.05386523 
+
+[[27]][[11]]$value
+[1] 188.1912
+
+[[27]][[11]]$counts
+function gradient 
+      27       NA 
+
+[[27]][[11]]$convergence
+[1] 0
+
+[[27]][[11]]$message
+NULL
+
+
+
+[[28]]
+[[28]][[1]]
+[[28]][[1]]$par
+                                              log(offering_duration) 
+            -18.279993               4.823709              14.334222 
+             discprice 
+             -3.637019 
+
+[[28]][[1]]$value
+[1] 915.3518
+
+[[28]][[1]]$counts
+function gradient 
+     151       NA 
+
+[[28]][[1]]$convergence
+[1] 0
+
+[[28]][[1]]$message
+NULL
+
+
+[[28]][[2]]
+[[28]][[2]]$par
+                                              log(offering_duration) 
+             -6.193874               8.725446               5.371303 
+             discprice 
+              7.815439 
+
+[[28]][[2]]$value
+[1] 114.6516
+
+[[28]][[2]]$counts
+function gradient 
+      59       NA 
+
+[[28]][[2]]$convergence
+[1] 0
+
+[[28]][[2]]$message
+NULL
+
+
+[[28]][[3]]
+[[28]][[3]]$par
+                                              log(offering_duration) 
+            -16.821920               1.585154              17.570383 
+             discprice 
+             -9.270127 
+
+[[28]][[3]]$value
+[1] 5490.683
+
+[[28]][[3]]$counts
+function gradient 
+      43       NA 
+
+[[28]][[3]]$convergence
+[1] 0
+
+[[28]][[3]]$message
+NULL
+
+
+[[28]][[4]]
+[[28]][[4]]$par
+                                              log(offering_duration) 
+             -7.967379            -167.779881              61.305265 
+             discprice 
+            165.296629 
+
+[[28]][[4]]$value
+[1] 999.9344
+
+[[28]][[4]]$counts
+function gradient 
+     305       NA 
+
+[[28]][[4]]$convergence
+[1] 0
+
+[[28]][[4]]$message
+NULL
+
+
+[[28]][[5]]
+[[28]][[5]]$par
+                                              log(offering_duration) 
+             -8.671332              18.924246               6.081332 
+             discprice 
+              1.524646 
+
+[[28]][[5]]$value
+[1] 504.9853
+
+[[28]][[5]]$counts
+function gradient 
+      45       NA 
+
+[[28]][[5]]$convergence
+[1] 0
+
+[[28]][[5]]$message
+NULL
+
+
+[[28]][[6]]
+[[28]][[6]]$par
+                                              log(offering_duration) 
+            -3.2078299              5.5009719              0.8092494 
+             discprice 
+            -0.7464078 
+
+[[28]][[6]]$value
+[1] 338.3715
+
+[[28]][[6]]$counts
+function gradient 
+     307       NA 
+
+[[28]][[6]]$convergence
+[1] 0
+
+[[28]][[6]]$message
+NULL
+
+
+[[28]][[7]]
+[[28]][[7]]$par
+                                              log(offering_duration) 
+             -6.612578              -3.650503               6.652560 
+             discprice 
+             -3.035119 
+
+[[28]][[7]]$value
+[1] 161.6556
+
+[[28]][[7]]$counts
+function gradient 
+     145       NA 
+
+[[28]][[7]]$convergence
+[1] 0
+
+[[28]][[7]]$message
+NULL
+
+
+[[28]][[8]]
+[[28]][[8]]$par
+                                              log(offering_duration) 
+             -7.758631               5.520354               5.810191 
+             discprice 
+              3.742687 
+
+[[28]][[8]]$value
+[1] 446.0814
+
+[[28]][[8]]$counts
+function gradient 
+     169       NA 
+
+[[28]][[8]]$convergence
+[1] 0
+
+[[28]][[8]]$message
+NULL
+
+
+[[28]][[9]]
+NULL
+
+[[28]][[10]]
+[[28]][[10]]$par
+                                              log(offering_duration) 
+          -21.42224408           -33.54139927            34.18334105 
+             discprice 
+           -0.03501916 
+
+[[28]][[10]]$value
+[1] 700.3556
+
+[[28]][[10]]$counts
+function gradient 
+      43       NA 
+
+[[28]][[10]]$convergence
+[1] 0
+
+[[28]][[10]]$message
+NULL
+
+
+[[28]][[11]]
+[[28]][[11]]$par
+                                              log(offering_duration) 
+            -4.6515484              4.2088320              3.8139304 
+             discprice 
+             0.4600808 
+
+[[28]][[11]]$value
+[1] 65.84367
+
+[[28]][[11]]$counts
+function gradient 
+     235       NA 
+
+[[28]][[11]]$convergence
+[1] 0
+
+[[28]][[11]]$message
+NULL
+
+
+
+[[29]]
+[[29]][[1]]
+[[29]][[1]]$par
+                                              log(offering_duration) 
+            -90.561491               4.824055              73.184689 
+             discprice 
+             -3.640678 
+
+[[29]][[1]]$value
+[1] 915.3518
+
+[[29]][[1]]$counts
+function gradient 
+     215       NA 
+
+[[29]][[1]]$convergence
+[1] 0
+
+[[29]][[1]]$message
+NULL
+
+
+[[29]][[2]]
+[[29]][[2]]$par
+                                              log(offering_duration) 
+             -6.041798               3.681827               6.063138 
+             discprice 
+              2.245557 
+
+[[29]][[2]]$value
+[1] 115.3288
+
+[[29]][[2]]$counts
+function gradient 
+      31       NA 
+
+[[29]][[2]]$convergence
+[1] 0
+
+[[29]][[2]]$message
+NULL
+
+
+[[29]][[3]]
+[[29]][[3]]$par
+                                              log(offering_duration) 
+         -18.189334248            7.317476313           -6.407721417 
+             discprice 
+          -0.004492289 
+
+[[29]][[3]]$value
+[1] 5476.135
+
+[[29]][[3]]$counts
+function gradient 
+     427       NA 
+
+[[29]][[3]]$convergence
+[1] 0
+
+[[29]][[3]]$message
+NULL
+
+
+[[29]][[4]]
+[[29]][[4]]$par
+                                              log(offering_duration) 
+             -7.768013               4.157538               4.405244 
+             discprice 
+             -2.557665 
+
+[[29]][[4]]$value
+[1] 1000.341
+
+[[29]][[4]]$counts
+function gradient 
+     149       NA 
+
+[[29]][[4]]$convergence
+[1] 0
+
+[[29]][[4]]$message
+NULL
+
+
+[[29]][[5]]
+[[29]][[5]]$par
+                                              log(offering_duration) 
+            -13.530829              24.339787               3.364903 
+             discprice 
+             -4.529898 
+
+[[29]][[5]]$value
+[1] 503.5749
+
+[[29]][[5]]$counts
+function gradient 
+     237       NA 
+
+[[29]][[5]]$convergence
+[1] 0
+
+[[29]][[5]]$message
+NULL
+
+
+[[29]][[6]]
+[[29]][[6]]$par
+                                              log(offering_duration) 
+            -3.2077949              5.5050756              0.8121698 
+             discprice 
+            -0.7464532 
+
+[[29]][[6]]$value
+[1] 338.3715
+
+[[29]][[6]]$counts
+function gradient 
+     265       NA 
+
+[[29]][[6]]$convergence
+[1] 0
+
+[[29]][[6]]$message
+NULL
+
+
+[[29]][[7]]
+[[29]][[7]]$par
+                                              log(offering_duration) 
+             -6.619041             -22.071893              27.923577 
+             discprice 
+             24.428763 
+
+[[29]][[7]]$value
+[1] 161.6555
+
+[[29]][[7]]$counts
+function gradient 
+     151       NA 
+
+[[29]][[7]]$convergence
+[1] 0
+
+[[29]][[7]]$message
+NULL
+
+
+[[29]][[8]]
+[[29]][[8]]$par
+                                              log(offering_duration) 
+             -7.924258               7.377107               8.688077 
+             discprice 
+             -1.030612 
+
+[[29]][[8]]$value
+[1] 445.709
+
+[[29]][[8]]$counts
+function gradient 
+     285       NA 
+
+[[29]][[8]]$convergence
+[1] 0
+
+[[29]][[8]]$message
+NULL
+
+
+[[29]][[9]]
+NULL
+
+[[29]][[10]]
+[[29]][[10]]$par
+                                              log(offering_duration) 
+             -1.788589              -1.189379              15.406371 
+             discprice 
+              0.494196 
+
+[[29]][[10]]$value
+[1] 4129.172
+
+[[29]][[10]]$counts
+function gradient 
+      23       NA 
+
+[[29]][[10]]$convergence
+[1] 0
+
+[[29]][[10]]$message
+NULL
+
+
+[[29]][[11]]
+[[29]][[11]]$par
+                                              log(offering_duration) 
+             -6.186002               1.238549               5.660284 
+             discprice 
+              0.251944 
+
+[[29]][[11]]$value
+[1] 70.4774
+
+[[29]][[11]]$counts
+function gradient 
+      47       NA 
+
+[[29]][[11]]$convergence
+[1] 0
+
+[[29]][[11]]$message
+NULL
+
+
+
+[[30]]
+[[30]][[1]]
+[[30]][[1]]$par
+                                              log(offering_duration) 
+            -14.214184              13.355773              14.476922 
+             discprice 
+              3.432735 
+
+[[30]][[1]]$value
+[1] 912.8973
+
+[[30]][[1]]$counts
+function gradient 
+     609       NA 
+
+[[30]][[1]]$convergence
+[1] 0
+
+[[30]][[1]]$message
+NULL
+
+
+[[30]][[2]]
+[[30]][[2]]$par
+                                              log(offering_duration) 
+             -6.202537               3.952225               4.123217 
+             discprice 
+              6.053849 
+
+[[30]][[2]]$value
+[1] 114.6516
+
+[[30]][[2]]$counts
+function gradient 
+      87       NA 
+
+[[30]][[2]]$convergence
+[1] 0
+
+[[30]][[2]]$message
+NULL
+
+
+[[30]][[3]]
+[[30]][[3]]$par
+                                              log(offering_duration) 
+             -6.749114             -95.614270              27.352849 
+             discprice 
+            107.057502 
+
+[[30]][[3]]$value
+[1] 5680.058
+
+[[30]][[3]]$counts
+function gradient 
+     269       NA 
+
+[[30]][[3]]$convergence
+[1] 0
+
+[[30]][[3]]$message
+NULL
+
+
+[[30]][[4]]
+[[30]][[4]]$par
+                                              log(offering_duration) 
+             -7.819424            -123.701386             101.779797 
+             discprice 
+             26.793883 
+
+[[30]][[4]]$value
+[1] 1000.36
+
+[[30]][[4]]$counts
+function gradient 
+     201       NA 
+
+[[30]][[4]]$convergence
+[1] 0
+
+[[30]][[4]]$message
+NULL
+
+
+[[30]][[5]]
+[[30]][[5]]$par
+                                              log(offering_duration) 
+             -8.739386               8.939555               4.976278 
+             discprice 
+              3.241529 
+
+[[30]][[5]]$value
+[1] 504.9853
+
+[[30]][[5]]$counts
+function gradient 
+      55       NA 
+
+[[30]][[5]]$convergence
+[1] 0
+
+[[30]][[5]]$message
+NULL
+
+
+[[30]][[6]]
+[[30]][[6]]$par
+                                              log(offering_duration) 
+             -3.231735               7.656484               2.404172 
+             discprice 
+             -1.285744 
+
+[[30]][[6]]$value
+[1] 339.0025
+
+[[30]][[6]]$counts
+function gradient 
+      71       NA 
+
+[[30]][[6]]$convergence
+[1] 0
+
+[[30]][[6]]$message
+NULL
+
+
+[[30]][[7]]
+[[30]][[7]]$par
+                                              log(offering_duration) 
+             -6.615741              -7.663702              12.736849 
+             discprice 
+              2.414855 
+
+[[30]][[7]]$value
+[1] 161.6555
+
+[[30]][[7]]$counts
+function gradient 
+     163       NA 
+
+[[30]][[7]]$convergence
+[1] 0
+
+[[30]][[7]]$message
+NULL
+
+
+[[30]][[8]]
+[[30]][[8]]$par
+                                              log(offering_duration) 
+           -7.94250250             7.38794060             0.07139846 
+             discprice 
+           -0.96433813 
+
+[[30]][[8]]$value
+[1] 445.0487
+
+[[30]][[8]]$counts
+function gradient 
+     443       NA 
+
+[[30]][[8]]$convergence
+[1] 0
+
+[[30]][[8]]$message
+NULL
+
+
+[[30]][[9]]
+NULL
+
+[[30]][[10]]
+[[30]][[10]]$par
+                                              log(offering_duration) 
+            -19.005332             -41.740599              43.997701 
+             discprice 
+             -7.157144 
+
+[[30]][[10]]$value
+[1] 700.3556
+
+[[30]][[10]]$counts
+function gradient 
+      49       NA 
+
+[[30]][[10]]$convergence
+[1] 0
+
+[[30]][[10]]$message
+NULL
+
+
+[[30]][[11]]
+[[30]][[11]]$par
+                                              log(offering_duration) 
+           -1.67496594             0.26825819             5.11721658 
+             discprice 
+           -0.05981808 
+
+[[30]][[11]]$value
+[1] 180.8935
+
+[[30]][[11]]$counts
+function gradient 
+      25       NA 
+
+[[30]][[11]]$convergence
+[1] 0
+
+[[30]][[11]]$message
+NULL
+
+
+

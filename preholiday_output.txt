@@ -1,0 +1,239 @@
+> mleout_preh[[1]]
+$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+            -1.9950250              3.5154485             -0.5210066              1.0669910 
+               logcomp               weekends                        
+             1.3360268              0.8107126             -1.3458766 
+
+$value
+[1] -15834.77
+
+$counts
+function gradient 
+    1855       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_preh[[3]]
+$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -2.06107782             3.90253878             1.71228371            -0.23977867 
+               logcomp               weekends                        
+           -0.21819943            -0.62089151             0.03835552 
+
+$value
+[1] 14833.88
+
+$counts
+function gradient 
+     738       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_preh[[2]]
+$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+            -2.9107547             12.4160498             -3.2287260             -0.9020811 
+               logcomp               weekends                        
+             0.1605677              1.2327578              1.4883762 
+
+$value
+[1] -3700
+
+$counts
+function gradient 
+      49       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_preh[[5]]
+$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -1.26878582             2.52677667             0.51816066            -0.30886589 
+               logcomp               weekends                        
+            0.06003021            -0.25744852             0.02221567 
+
+$value
+[1] 5766.876
+
+$counts
+function gradient 
+      36       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_preh[[10]]
+$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+          -2.211642795            8.305655781           -0.048215816            0.430814620 
+               logcomp               weekends                        
+           0.005534998            2.012702696            0.152652584 
+
+$value
+[1] -15900
+
+$counts
+function gradient 
+      24       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> mleout_preh[[11]]
+$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+             -3.852244               2.680398              -0.600819               1.316161 
+               logcomp               weekends                        
+             -1.709844               1.751880              -1.177566 
+
+$value
+[1] -1069.329
+
+$counts
+function gradient 
+    1048       NA 
+
+$convergence
+[1] 0
+
+$message
+NULL
+
+> hol_data <- dealsfull %>% filter(is.na(holiday) == 0, type == 
++ i, prep.period > 0, offering_duration <= 40) %>% {
++ dealsfull_type <<- .
++ } %>% filter(total_volume > quantile(dealsfull_type$total_volume, 
++ c(0.05)), total_volume < quantile(dealsfull_type$total_volume, 
++ c(0.95))) %>% mutate(original_price = original_price/sd(original_price))
+> disc_alpha <- unique(round(hol_data$discount, digits = 2))
+> disc_T <- unique(hol_data$prep.period)
+> disc_d <- unique(hol_data$offering_duration)
+> para_choice <- merge(disc_alpha, disc_T, all = TRUE) %>% rename(alpha = x, 
++ T = y) %>% merge(disc_d, all = TRUE) %>% rename(d = y) %>% 
++ filter(d > (T))
+> sigSnh <- log(sqrt(var(nonhol_data$total_volume[nonhol_data$total_volume < 
++ quantile(nonhol_data$total_volume, 0.7) & nonhol_data$total_volume > 
++ quantile(nonhol_data$total_volume, 0.3)])))
+> Theta_est_nh <- c(mleout_preh[[i]]$par, sigSnh)
+> print(dim(hol_data))
+[1] 321  21
+> i <- 2
+> hol_data <- dealsfull %>% filter(is.na(holiday) == 0, type == 
++ i, prep.period > 0, offering_duration <= 40) %>% {
++ dealsfull_type <<- .
++ } %>% filter(total_volume > quantile(dealsfull_type$total_volume, 
++ c(0.05)), total_volume < quantile(dealsfull_type$total_volume, 
++ c(0.95))) %>% mutate(original_price = original_price/sd(original_price))
+> disc_alpha <- unique(round(hol_data$discount, digits = 2))
+> disc_T <- unique(hol_data$prep.period)
+> disc_d <- unique(hol_data$offering_duration)
+> para_choice <- merge(disc_alpha, disc_T, all = TRUE) %>% rename(alpha = x, 
++ T = y) %>% merge(disc_d, all = TRUE) %>% rename(d = y) %>% 
++ filter(d > (T))
+> sigSnh <- log(sqrt(var(nonhol_data$total_volume[nonhol_data$total_volume < 
++ quantile(nonhol_data$total_volume, 0.7) & nonhol_data$total_volume > 
++ quantile(nonhol_data$total_volume, 0.3)])))
+> Theta_est_nh <- c(mleout_preh[[i]]$par, sigSnh)
+> print(dim(hol_data))
+[1] 81 21
+> Theta_est_nh
+  Nelder-Mead direct search function minimizer
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+            -2.9107547             12.4160498             -3.2287260             -0.9020811 
+               logcomp               weekends                                               
+             0.1605677              1.2327578              1.4883762              5.1206168 
+> hol_data <- dealsfull %>% filter(is.na(holiday) == 0, type == 
++ i, prep.period > 0, offering_duration <= 40) %>% {
++ dealsfull_type <<- .
++ } %>% filter(total_volume > quantile(dealsfull_type$total_volume, 
++ c(0.05)), total_volume < quantile(dealsfull_type$total_volume, 
++ c(0.95))) %>% mutate(original_price = original_price/sd(original_price))
+> disc_alpha <- unique(round(hol_data$discount, digits = 2))
+> disc_T <- unique(hol_data$prep.period)
+> disc_d <- unique(hol_data$offering_duration)
+> para_choice <- merge(disc_alpha, disc_T, all = TRUE) %>% rename(alpha = x, 
++ T = y) %>% merge(disc_d, all = TRUE) %>% rename(d = y) %>% 
++ filter(d > (T))
+> sigSnh <- log(sqrt(var(nonhol_data$total_volume[nonhol_data$total_volume < 
++ quantile(nonhol_data$total_volume, 0.7) & nonhol_data$total_volume > 
++ quantile(nonhol_data$total_volume, 0.3)])))
+> Theta_est_nh <- c(mleout_preh[[i]]$par, sigSnh)
+> Theta_est_nh[2] <- exp(Theta_est_nh[2])
+> Theta_est_nh[3] <- -exp(Theta_est_nh[3])
+> print(dim(hol_data))
+[1] 81 21
+> Theta_est_nh
+  Nelder-Mead direct search function minimizer
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+         -2.910755e+00           2.467300e+05          -3.960793e-02          -9.020811e-01 
+               logcomp               weekends                                               
+          1.605677e-01           1.232758e+00           1.488376e+00           5.120617e+00 
+> hol_data <- dealsfull %>% filter(is.na(holiday) == 0, type == 
++ i, prep.period > 0, offering_duration <= 40) %>% {
++ dealsfull_type <<- .
++ } %>% filter(total_volume > quantile(dealsfull_type$total_volume, 
++ c(0.05)), total_volume < quantile(dealsfull_type$total_volume, 
++ c(0.95))) %>% mutate(original_price = original_price/sd(original_price))
+> disc_alpha <- unique(round(hol_data$discount, digits = 2))
+> disc_T <- unique(hol_data$prep.period)
+> disc_d <- unique(hol_data$offering_duration)
+> para_choice <- merge(disc_alpha, disc_T, all = TRUE) %>% rename(alpha = x, 
++ T = y) %>% merge(disc_d, all = TRUE) %>% rename(d = y) %>% 
++ filter(d > (T))
+> sigSnh <- log(sqrt(var(nonhol_data$total_volume[nonhol_data$total_volume < 
++ quantile(nonhol_data$total_volume, 0.7) & nonhol_data$total_volume > 
++ quantile(nonhol_data$total_volume, 0.3)])))
+> Theta_est_nh <- c(mleout_preh[[i]]$par, sigSnh)
+> Theta_est_nh[2] <- exp(Theta_est_nh[3])
+> Theta_est_nh[3] <- -exp(Theta_est_nh[4])
+> Theta_est_nh
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -2.91075475             0.03960793            -0.40572444            -0.90208107 
+               logcomp               weekends                                               
+            0.16056766             1.23275776             1.48837618             5.12061683 
+> hol_data <- dealsfull %>% filter(is.na(holiday) == 0, type == 
++ i, prep.period > 0, offering_duration <= 40) %>% {
++ dealsfull_type <<- .
++ } %>% filter(total_volume > quantile(dealsfull_type$total_volume, 
++ c(0.05)), total_volume < quantile(dealsfull_type$total_volume, 
++ c(0.95))) %>% mutate(original_price = original_price/sd(original_price))
+> disc_alpha <- unique(round(hol_data$discount, digits = 2))
+> disc_T <- unique(hol_data$prep.period)
+> disc_d <- unique(hol_data$offering_duration)
+> para_choice <- merge(disc_alpha, disc_T, all = TRUE) %>% rename(alpha = x, 
++ T = y) %>% merge(disc_d, all = TRUE) %>% rename(d = y) %>% 
++ filter(d > (T))
+> sigSnh <- log(sqrt(var(nonhol_data$total_volume[nonhol_data$total_volume < 
++ quantile(nonhol_data$total_volume, 0.7) & nonhol_data$total_volume > 
++ quantile(nonhol_data$total_volume, 0.3)])))
+> Theta_est_nh <- c(mleout_preh[[i]]$par, sigSnh)
+> Theta_est_nh[3] <- exp(Theta_est_nh[3])
+> Theta_est_nh[4] <- -exp(Theta_est_nh[4])
+> print(dim(hol_data))
+[1] 81 21
+> Theta_est_nh
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -2.91075475            12.41604984             0.03960793            -0.40572444 
+               logcomp               weekends                                               
+            0.16056766             1.23275776             1.48837618             5.12061683 
+> deal_data = hol_data
+  Nelder-Mead direct search function minimizer

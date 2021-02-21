@@ -1,0 +1,124 @@
+ml> mleout_h
+[[1]]
+[[1]]$par
+                                                           discprice       log(prep.period) 
+           -9.21446234            -6.57964006            -0.01729547            -1.70575776 
+log(offering_duration) log(offering_duration)                                               
+            8.43927664            -2.75850287             9.70502431            -1.52166796 
+
+[[1]]$value
+[1] -214291.3
+
+[[1]]$counts
+function gradient 
+    1239       NA 
+
+[[1]]$convergence
+[1] 0
+
+[[1]]$message
+NULL
+
+
+[[2]]
+[[2]]$par
+                                                           discprice       log(prep.period) 
+         -5.074418e+00          -5.370930e+00          -2.338076e-06           1.870921e-01 
+log(offering_duration) log(offering_duration)                                               
+         -4.793170e-01           3.360364e+00           2.616259e+00          -1.870372e-01 
+
+[[2]]$value
+[1] 499.6216
+
+[[2]]$counts
+function gradient 
+    1179       NA 
+
+[[2]]$convergence
+[1] 0
+
+[[2]]$message
+NULL
+
+
+[[3]]
+NULL
+
+[[4]]
+NULL
+
+[[5]]
+[[5]]$par
+                                                           discprice       log(prep.period) 
+         -1.025659e+01          -2.917653e+00           7.478218e-04          -1.196316e-01 
+log(offering_duration) log(offering_duration)                                               
+          1.740636e+00           9.873229e-03           3.010355e+00           3.283908e+00 
+
+[[5]]$value
+[1] 3797.264
+
+[[5]]$counts
+function gradient 
+    1189       NA 
+
+[[5]]$convergence
+[1] 0
+
+[[5]]$message
+NULL
+
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+[[8]]$par
+                                                           discprice       log(prep.period) 
+            -0.2232689            -19.3711729              0.2256091             10.8470948 
+log(offering_duration) log(offering_duration)                                               
+            10.1483811             -1.9811049             15.0270297            -10.3272934 
+
+[[8]]$value
+[1] -1300
+
+[[8]]$counts
+function gradient 
+     107       NA 
+
+[[8]]$convergence
+[1] 0
+
+[[8]]$message
+NULL
+
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+[[11]]$par
+                                                           discprice       log(prep.period) 
+            -7.4801171             -1.3718049             -2.3724886             -1.9189286 
+log(offering_duration) log(offering_duration)                                               
+            -2.8858463             -0.8929128              9.6893459              3.4279480 
+
+[[11]]$value
+[1] -36811.51
+
+[[11]]$counts
+function gradient 
+    1325       NA 
+
+[[11]]$convergence
+[1] 0
+
+[[11]]$message
+NULL
+
+

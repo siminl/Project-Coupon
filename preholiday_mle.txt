@@ -1,0 +1,142 @@
+> mleout_preh
+[[1]]
+[[1]]$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -7.05261440             7.65357189            -0.05663603             0.92757279 
+               logcomp               weekends                        
+           -1.91936027             0.96546206            -0.26862434 
+
+[[1]]$value
+[1] 1044.882
+
+[[1]]$counts
+function gradient 
+     655       NA 
+
+[[1]]$convergence
+[1] 0
+
+[[1]]$message
+NULL
+
+
+[[2]]
+[[2]]$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -1.90837612           137.77644128           -42.18825637           -60.07752494 
+               logcomp               weekends                        
+          -46.88497990            21.63228895             0.04572191 
+
+[[2]]$value
+[1] 511.3936
+
+[[2]]$counts
+function gradient 
+     846       NA 
+
+[[2]]$convergence
+[1] 0
+
+[[2]]$message
+NULL
+
+
+[[3]]
+[[3]]$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+           -2.06107782             3.90253878             1.71228371            -0.23977867 
+               logcomp               weekends                        
+           -0.21819943            -0.62089151             0.03835552 
+
+[[3]]$value
+[1] 14833.88
+
+[[3]]$counts
+function gradient 
+     738       NA 
+
+[[3]]$convergence
+[1] 0
+
+[[3]]$message
+NULL
+
+
+[[4]]
+NULL
+
+[[5]]
+[[5]]$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+            -3.9655298              2.5765938              2.7936418              0.9270155 
+               logcomp               weekends                        
+            -0.2994919             -1.0453023            -11.0297321 
+
+[[5]]$value
+[1] 1210.002
+
+[[5]]$counts
+function gradient 
+    1318       NA 
+
+[[5]]$convergence
+[1] 0
+
+[[5]]$message
+NULL
+
+
+[[6]]
+NULL
+
+[[7]]
+NULL
+
+[[8]]
+[[8]]$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+          -2.000000000            4.941051753            1.893917149            1.595862523 
+               logcomp               weekends                        
+           0.055728494           -0.009101207            0.594105175 
+
+[[8]]$value
+[1] -10700
+
+[[8]]$counts
+function gradient 
+      74       NA 
+
+[[8]]$convergence
+[1] 0
+
+[[8]]$message
+NULL
+
+
+[[9]]
+NULL
+
+[[10]]
+NULL
+
+[[11]]
+[[11]]$par
+                                  (Intercept) log(offering_duration) I(log(original_price)) 
+            -5.9344433              5.2261160             -0.3927246              0.6381472 
+               logcomp               weekends                        
+            -0.5708970             -0.2522849             -2.0009869 
+
+[[11]]$value
+[1] -67.32824
+
+[[11]]$counts
+function gradient 
+     338       NA 
+
+[[11]]$convergence
+[1] 0
+
+[[11]]$message
+NULL
+
+

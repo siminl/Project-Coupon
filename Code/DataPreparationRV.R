@@ -5,6 +5,24 @@ library(lubridate)
 library(reshape2)
 library(numDeriv)
 library(tictoc)
+library(TeachingDemos)
+library(profvis)
+library(maxLik)
+library(ipoptr)
+library(DescTools)
+library(latex2exp)
+library(gridExtra)
+library(xtable)
+library(foreach)
+library(doParallel)
+library(snpar)
+library(ggthemes)
+sl <- dplyr::select
+fl <- dplyr::filter
+rn <- dplyr::rename
+mt <- dplyr::mutate
+gb <- dplyr::group_by
+sm <- dplyr::summarise
 
 
 load("/Users/siminli/Documents/GitHub/Project-Coupon/Data/deals.rda")
@@ -74,6 +92,19 @@ MLE_estimation(deal_data,isholiday)
 
 
 
+
+# # get the pre-holiday deals -----
+# predays <- 15
+# pre.windows <- c(seq(21-predays,21),seq(44-predays,44),seq(92-predays,92))
+# for(i in c(2,5,8,11,1,3)){
+#   nonhol_data <- dealsfull%>%
+#     mutate(end_dow_dm = launch_dow_dm+offering_duration)%>%
+#     filter(is.na(holiday)==1,type==i,end_dow_dm%in%pre.windows)%>%{.->>dealsfull_type}%>%
+#     #filter(total_volume>quantile(tmp$total_volume,c(0.05)), total_volume<quantile(tmp$total_volume,c(0.95)))%>%
+#     mutate(original_price = original_price/sd(original_price))
+#   print(dim(nonhol_data))
+# }
+# 
 
 
 

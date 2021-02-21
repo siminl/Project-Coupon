@@ -28,7 +28,7 @@ getPreparationTime <- function(deal_data,holidays.doy,prewindow){
   
   daystolaunch.prept <- merge(daystolaunch%>%select(event_id,prep.period,holiday.len,holiday),
                                   deal_data%>%
-                                    select(event_id,launch_dow_dm,detailed_cat_price,price,original_price,offering_duration,discount,platform,
+                                    select(event_id,launch_date,launch_dow_dm,detailed_cat_price,price,original_price,offering_duration,discount,platform,
                                            competitors_hol, competitors,
                                            first_day_volume,fifth_day_volume,total_volume,city,partysize,weekends),by="event_id",all.y = TRUE)
   #t1comp,t5comp,tendcomp,

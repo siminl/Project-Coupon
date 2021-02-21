@@ -14,7 +14,7 @@ dataprep <- function(deal_data,pre_window){
   
   #data.last.day <- deal_data$launch_date[nrows]
   data.last.day <- max(deal_data$launch_date)
-  tmp <- deal_data%>%mutate(dummy = deal_data$launch_date[1])%>%
+  tmp <- deal_data%>%mutate(dummy = min(deal_data$launch_date))%>%
     mutate(launch_dow_dm = as.numeric(as.Date(deal_data$launch_date)-as.Date(dummy)) +1)%>%
     # mutate(launch_dow = launch_dow_dm%%7-1)%>%mutate(launch_dow=replace(launch_dow, launch_dow==0, 7))%>%
     # mutate(launch_dow=replace(launch_dow, launch_dow==-1, 6))%>%
